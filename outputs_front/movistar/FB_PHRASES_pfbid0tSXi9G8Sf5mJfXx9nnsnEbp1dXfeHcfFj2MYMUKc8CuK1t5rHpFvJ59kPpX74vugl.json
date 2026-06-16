@@ -1,0 +1,18 @@
+{
+  "post_id": "pfbid0tSXi9G8Sf5mJfXx9nnsnEbp1dXfeHcfFj2MYMUKc8CuK1t5rHpFvJ59kPpX74vugl",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-22",
+  "negativo": {
+    "registrar mi reclamo": 3,
+    "app movistar lite": 2,
+    "señal": 1,
+    "internet": 1
+  },
+  "neutral": {
+    "104 desde tu movistar": 2,
+    "datos": 1,
+    "servicio": 1,
+    "llamada": 1
+  }
+}

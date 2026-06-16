@@ -1,0 +1,21 @@
+{
+  "post_id": "reel_1960890064792949",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "negativo": {
+    "señal está pobre": 3,
+    "fallando la conexión": 2,
+    "fallando la conexión a internet": 2,
+    "atención por llamadas": 2,
+    "gente de bitel": 2,
+    "bitel se preocupa": 2,
+    "solucionar el problema": 2,
+    "internet teniendo todavía": 2,
+    "pésimo": 2,
+    "servicio": 2
+  },
+  "informativo": {
+    "poco bitel a quien": 2
+  }
+}

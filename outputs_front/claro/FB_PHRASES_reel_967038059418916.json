@@ -1,0 +1,29 @@
+{
+  "post_id": "reel_967038059418916",
+  "operador": "claro",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "positivo": {
+    "internet de 500 mbps": 2,
+    "plan de internet": 2,
+    "claro": 1
+  },
+  "negativo": {
+    "peor servicio de cable": 2,
+    "loco con su servicio": 2,
+    "movistar y te instalan": 2,
+    "podamos revisar tu servicio": 2,
+    "internet falla": 2,
+    "servicio y brindarte": 2,
+    "claro perú": 2,
+    "pésimo": 1,
+    "llamadas": 1
+  },
+  "neutral": {
+    "fibra óptica claro": 2,
+    "servicio tienes nuestro inbox": 2
+  },
+  "informativo": {
+    "whatsapp el servicio": 2
+  }
+}

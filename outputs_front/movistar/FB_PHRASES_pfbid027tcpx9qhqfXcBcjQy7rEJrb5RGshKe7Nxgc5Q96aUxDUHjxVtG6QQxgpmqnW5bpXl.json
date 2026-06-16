@@ -1,0 +1,16 @@
+{
+  "post_id": "pfbid027tcpx9qhqfXcBcjQy7rEJrb5RGshKe7Nxgc5Q96aUxDUHjxVtG6QQxgpmqnW5bpXl",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-22",
+  "negativo": {
+    "haya caido su red": 2,
+    "red por muchos minutos": 2,
+    "muchos minutos el dia": 2,
+    "internet": 1
+  },
+  "neutral": {
+    "tus datos personales": 2,
+    "servicio": 1
+  }
+}

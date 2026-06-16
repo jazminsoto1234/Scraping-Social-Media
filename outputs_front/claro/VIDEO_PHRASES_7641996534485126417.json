@@ -1,0 +1,32 @@
+{
+  "video_id": "7641996534485126417",
+  "operador": "claro",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-20",
+  "positivo": {
+    "claro": 1
+  },
+  "negativo": {
+    "solucionen el problema": 3,
+    "llamé por llamada ingre": 2,
+    "llamada ingre a wtsp": 2,
+    "tienen internet": 2,
+    "señal": 2,
+    "reclamo": 1,
+    "bueno": 1,
+    "llamadas": 1,
+    "entel": 1,
+    "servicio": 1
+  },
+  "neutral": {
+    "servicio": 6,
+    "problema": 1,
+    "cobertura": 1,
+    "precio": 1,
+    "señal": 1,
+    "claro": 1
+  },
+  "informativo": {
+    "claro": 1
+  }
+}

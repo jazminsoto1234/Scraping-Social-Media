@@ -1,0 +1,50 @@
+{
+  "post_id": "pfbid06f5zgdPVBsNUMgVPQAdMeTqVxfrKsoy8GJu6pG2wMCCxMo7uWwf97fozc3sedZHol",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "positivo": {
+    "bitel": 2
+  },
+  "negativo": {
+    "pasa con bitel mas": 2,
+    "les hablo del plan": 2,
+    "plan mi plan": 2,
+    "plan no esta habilitado": 2,
+    "aparece en la app": 2,
+    "app mi bitel arreglen": 2,
+    "web de bitel": 2,
+    "última recarga a bitel": 2,
+    "feliz con bitel": 2,
+    "bitel la mejor operadora": 2,
+    "dejé a bitel": 2,
+    "dónde estoy trabajando actualmente": 2,
+    "señal se corta inesperadente": 2,
+    "éste problema": 2,
+    "internet": 1,
+    "lento": 1
+  },
+  "neutral": {
+    "bitel": 3,
+    "buena conexión para trabajar": 2,
+    "seguir mejorando nuestra red": 2,
+    "costo del paquete 13so": 2,
+    "cuánto se recargar": 2,
+    "enviarnos tus datos": 2,
+    "brindarte el servicio": 2,
+    "internet starlink": 2,
+    "señal": 2,
+    "lento": 1,
+    "cobertura": 1
+  },
+  "informativo": {
+    "bitel": 1,
+    "plan": 1,
+    "servicio": 1
+  },
+  "irrelevante": {
+    "app": 1,
+    "bueno": 1,
+    "excelente": 1
+  }
+}

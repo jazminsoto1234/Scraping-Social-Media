@@ -1,0 +1,32 @@
+{
+  "post_id": "reel_1782223846084547",
+  "operador": "claro",
+  "plataforma": "facebook",
+  "fecha": "2026-05-29",
+  "positivo": {
+    "claro tengo la conectividad": 2,
+    "internet": 1
+  },
+  "negativo": {
+    "problema hasta ahora": 2,
+    "realizas una llamada atención": 2,
+    "gente pésimo servicio": 2,
+    "internet condominio valle grande": 2,
+    "baja el servicio": 2,
+    "claro empresas norte": 2,
+    "recomiendo": 1,
+    "rápido": 1,
+    "excelente": 1
+  },
+  "neutral": {
+    "servicio tienes nuestro inbox": 2
+  },
+  "informativo": {
+    "aplicativo mi claro": 2,
+    "claro no funciona": 2,
+    "funciona para darse": 2
+  },
+  "irrelevante": {
+    "funciona": 1
+  }
+}

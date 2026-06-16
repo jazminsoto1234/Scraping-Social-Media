@@ -1,0 +1,36 @@
+{
+  "video_id": "7639492833191251207",
+  "operador": "claro",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-13",
+  "positivo": {
+    "nuestro servicio": 2
+  },
+  "negativo": {
+    "internet mucho antes": 2,
+    "tienen minutos esperando": 2,
+    "esperando como 20 minutos": 2,
+    "llega bien el internet": 2,
+    "internet tengo muchos problemas": 2,
+    "claro en provincias": 2,
+    "pasa nada claro nunca": 2,
+    "cortan las llamadas encima": 2,
+    "llamadas encima te disen": 2,
+    "mejor claro hogar": 2,
+    "claro hogar desde": 2,
+    "señal de claro": 2,
+    "servicio": 1,
+    "movistar": 1
+  },
+  "neutral": {
+    "sucedido en tu servicio": 2,
+    "inconveniente de señal": 2,
+    "internet": 1
+  },
+  "informativo": {
+    "dejaría mis datos": 2,
+    "llamadas y no sean": 2,
+    "claro": 1,
+    "plan": 1
+  }
+}

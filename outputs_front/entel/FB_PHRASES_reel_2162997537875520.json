@@ -1,0 +1,43 @@
+{
+  "post_id": "reel_2162997537875520",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "negativo": {
+    "entel perú": 4,
+    "entel hace 2 meses": 2,
+    "meses y su internet": 2,
+    "adelantado cuando su servicio": 2,
+    "señal se va constantemente": 2,
+    "pésimo facturas y reclamos": 2,
+    "usuarios porque por reclamo": 2,
+    "reclamo de esim": 2,
+    "funciona la app entel": 2,
+    "tus datos al enlace": 2,
+    "servicio y atención": 2,
+    "internet deja mucho": 2,
+    "123 no funciona": 2,
+    "funciona solo responde": 2,
+    "lento": 1,
+    "red": 1,
+    "minutos": 1,
+    "problema": 1
+  },
+  "neutral": {
+    "entel": 5,
+    "presentas con el servicio": 2,
+    "sucedido con tu señal": 2,
+    "señal en la zona": 2,
+    "detalle tu servicio": 2,
+    "claro": 1,
+    "internet": 1,
+    "datos": 1
+  },
+  "informativo": {
+    "entel": 1,
+    "servicio": 1
+  },
+  "irrelevante": {
+    "app no está funcionando": 2
+  }
+}

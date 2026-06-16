@@ -1,0 +1,50 @@
+{
+  "post_id": "pfbid028N91yzPox5tUEzKsaGC3CFzHrFAVQBwureEwHTtYwrc4U7g7QKCoVRNiupmxHPfBl",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "negativo": {
+    "subieron el costo": 4,
+    "entel no cumple": 4,
+    "pedido de reclamo": 3,
+    "estafa con nubia neo": 2,
+    "señal de mi celular": 2,
+    "costo del plan": 2,
+    "soles por la app": 2,
+    "youtube y no entel": 2,
+    "servicio técnico": 2,
+    "reclamo ya son cerca": 2,
+    "reclamo en el cuadro": 2,
+    "funciona entel space": 2,
+    "señores de entel": 2,
+    "starlink": 1,
+    "cobertura": 1,
+    "movistar": 1,
+    "problema": 1,
+    "llamadas": 1
+  },
+  "neutral": {
+    "señal y ayudarte": 3,
+    "experiencia con nuestro servicio": 2,
+    "escríbenos con tus datos": 2,
+    "experiencia con tu servicio": 2,
+    "sucedido con tu señal": 2,
+    "entel lover": 2,
+    "precio": 1,
+    "llamadas": 1,
+    "internet": 1
+  },
+  "informativo": {
+    "queja está resuelta": 3,
+    "queja por no cumplir": 2,
+    "están cambiando de plan": 2,
+    "señores entel cómo es posible": 2,
+    "entel cómo es posible hace": 2,
+    "uds dicen vaya al servicio": 2,
+    "dicen vaya al servicio técnico": 2,
+    "entel perú pude volver": 2,
+    "llamadas": 1,
+    "internet": 1,
+    "problema": 1
+  }
+}

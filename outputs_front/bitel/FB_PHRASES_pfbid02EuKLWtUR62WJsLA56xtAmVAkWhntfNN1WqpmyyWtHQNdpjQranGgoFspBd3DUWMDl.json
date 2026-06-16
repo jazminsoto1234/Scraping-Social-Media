@@ -1,0 +1,35 @@
+{
+  "post_id": "pfbid02EuKLWtUR62WJsLA56xtAmVAkWhntfNN1WqpmyyWtHQNdpjQranGgoFspBd3DUWMDl",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "positivo": {
+    "bitel": 1
+  },
+  "negativo": {
+    "pésimo servicio": 2,
+    "malo": 1,
+    "bitel": 1,
+    "internet": 1,
+    "cobertura": 1
+  },
+  "neutral": {
+    "enviando la palabra volte": 4,
+    "uso del volte depende": 2,
+    "palabra volte al 164": 2,
+    "favor envíanos tus datos": 2,
+    "puedas enviarnos tus datos": 2,
+    "servicio detalle": 2,
+    "conexión": 1,
+    "wifi": 1,
+    "internet": 1,
+    "planes": 1,
+    "bitel": 1,
+    "señal": 1
+  },
+  "irrelevante": {
+    "comentaron que el volte": 2,
+    "volte solo funciona": 2,
+    "bueno": 1
+  }
+}

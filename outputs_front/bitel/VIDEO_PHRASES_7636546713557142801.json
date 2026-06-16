@@ -1,0 +1,26 @@
+{
+  "video_id": "7636546713557142801",
+  "operador": "bitel",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-05",
+  "positivo": {
+    "bitel": 1
+  },
+  "negativo": {
+    "app casi": 2,
+    "internet": 2,
+    "plan": 1
+  },
+  "neutral": {
+    "señal quien se qued": 2,
+    "brindarte el servicio estable": 2,
+    "servicio se activa": 2,
+    "sim": 1
+  },
+  "informativo": {
+    "código no funciona": 2,
+    "servicio compartir": 2,
+    "plan famila va": 2,
+    "app": 1
+  }
+}

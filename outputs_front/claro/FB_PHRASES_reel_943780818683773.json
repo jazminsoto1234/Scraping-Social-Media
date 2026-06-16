@@ -1,0 +1,35 @@
+{
+  "post_id": "reel_943780818683773",
+  "operador": "claro",
+  "plataforma": "facebook",
+  "fecha": "2026-05-22",
+  "positivo": {
+    "movistar": 1
+  },
+  "negativo": {
+    "cortan la llamada": 3,
+    "internet que está débil": 2,
+    "internet desde la mañana": 2,
+    "funciona en claro perú": 2,
+    "claro perú es cobrar": 2,
+    "sucedido con tu servicio": 2,
+    "señal de internet": 2,
+    "día sin internet": 2,
+    "internet ni cable": 2,
+    "llamadas insistentes": 2,
+    "mala señal": 2,
+    "dar mal servicio": 2,
+    "plan": 1,
+    "pésimo": 1,
+    "lento": 1
+  },
+  "neutral": {
+    "mejorar tu servicio antes": 2,
+    "servicio antes que tomes": 2,
+    "ocurrido con tu servicio": 2
+  },
+  "informativo": {
+    "llamada y su libro": 2,
+    "funciona": 1
+  }
+}

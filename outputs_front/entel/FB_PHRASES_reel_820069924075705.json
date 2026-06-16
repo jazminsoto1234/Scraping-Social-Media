@@ -1,0 +1,23 @@
+{
+  "post_id": "reel_820069924075705",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-29",
+  "negativo": {
+    "señal en el centro": 2,
+    "servicio y atención": 2,
+    "internet deja mucho": 2,
+    "entel perú": 2
+  },
+  "neutral": {
+    "precio dependerá": 2,
+    "entel": 2
+  },
+  "informativo": {
+    "costo de la moto": 2,
+    "cuánto": 1
+  },
+  "irrelevante": {
+    "dónde": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "post_id": "reel_1480352383681863",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "negativo": {
+    "subieron el costo": 4,
+    "señal de mi celular": 2,
+    "costo del plan": 2,
+    "entel y me enviaron": 2,
+    "enviaron un qr usado": 2,
+    "plan cuando les da": 2,
+    "combies a entel xq": 2,
+    "entel xq esa empresa": 2,
+    "servicio no sirve": 2,
+    "cambies a entel": 2,
+    "reclamo y de respuesta": 2,
+    "paso al plan": 2,
+    "plan que pedí": 2,
+    "haber hecho mi reclamo": 2,
+    "reclamo el mes anterior": 2,
+    "entel te recomiendo": 2,
+    "oficina entel": 2,
+    "internet": 2,
+    "funciona": 1,
+    "pésimo": 1,
+    "lento": 1,
+    "movistar": 1,
+    "llamadas": 1
+  },
+  "neutral": {
+    "espera de tus datos": 2,
+    "tus datos a través": 2,
+    "tienes con las llamadas": 2,
+    "cumpliendo los requisitos": 2,
+    "tienda entel": 2,
+    "señal": 2,
+    "cobertura": 1,
+    "móvil": 1,
+    "servicio": 1,
+    "sms": 1,
+    "planes": 1,
+    "starlink": 1
+  },
+  "informativo": {
+    "experimenta falta de cobertura": 2,
+    "problema q lo lleve": 2,
+    "plan de internet": 2,
+    "internet y telefonia": 2,
+    "puede ustedes entel": 2,
+    "5g": 1,
+    "queja": 1
+  },
+  "irrelevante": {
+    "cómo": 1
+  }
+}

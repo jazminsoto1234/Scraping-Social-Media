@@ -1,0 +1,25 @@
+{
+  "video_id": "7636064281015962897",
+  "operador": "bitel",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-04",
+  "negativo": {
+    "internet es pésimo mejoren": 2,
+    "problema estoy": 2,
+    "internet ilimitado": 2,
+    "lento": 1,
+    "bitel": 1
+  },
+  "neutral": {
+    "favor bríndanos tus datos": 2,
+    "internet": 1,
+    "problema": 1
+  },
+  "informativo": {
+    "problema con mi línea": 2,
+    "bitel": 2
+  },
+  "irrelevante": {
+    "malo": 1
+  }
+}

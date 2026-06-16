@@ -1,0 +1,23 @@
+{
+  "post_id": "pfbid0YgG7fJ54L122KQBqi3JuA9xRVTypqk1JGCC2vk2ph6otd4s7rijJyAQVerJDZd6pl",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "negativo": {
+    "internet ni cable": 2,
+    "cable el internet siempre": 2,
+    "corta sale señal inestable": 2,
+    "corte de tu servicio": 2,
+    "servicio a pesar": 2,
+    "movistar": 1
+  },
+  "neutral": {
+    "envíanos tus datos": 2
+  },
+  "informativo": {
+    "cómo": 1
+  },
+  "irrelevante": {
+    "falla": 1
+  }
+}

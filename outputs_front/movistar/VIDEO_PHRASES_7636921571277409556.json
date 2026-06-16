@@ -1,0 +1,17 @@
+{
+  "video_id": "7636921571277409556",
+  "operador": "movistar",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-06",
+  "negativo": {
+    "movistar qué clase": 2,
+    "internet": 1,
+    "señal": 1
+  },
+  "neutral": {
+    "señal": 1
+  },
+  "informativo": {
+    "internet": 1
+  }
+}

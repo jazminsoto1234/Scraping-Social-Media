@@ -1,0 +1,37 @@
+{
+  "post_id": "reel_1461322592140159",
+  "operador": "claro",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "positivo": {
+    "excelente": 1,
+    "servicio": 1,
+    "internet": 1,
+    "claro": 1
+  },
+  "negativo": {
+    "recibir más llamadas": 3,
+    "claro hogar": 3,
+    "recibido constantes llamadas insistentes": 2,
+    "frecuencia de llamadas manifiestan": 2,
+    "pude dejarles mi queja": 2,
+    "queja a su personal": 2,
+    "cobran nuevamente como bitel": 2,
+    "días sin internet": 2,
+    "dar un buen servicio": 2,
+    "servicio que da claro": 2,
+    "internet desde la mañana": 2,
+    "señal de internet": 2,
+    "estan cambiando de plan": 2,
+    "señal esta fallando mucho": 2,
+    "funcionamiento de tu servicio": 2,
+    "días sin servicio": 2,
+    "internet en provincia": 2,
+    "pésimo servicio": 2,
+    "lento": 1,
+    "recomiendo": 1
+  },
+  "informativo": {
+    "claro hacer": 2
+  }
+}

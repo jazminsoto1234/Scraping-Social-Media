@@ -1,0 +1,19 @@
+{
+  "post_id": "reel_4386545718254385",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "negativo": {
+    "movistar tv incluido liga": 2,
+    "ogt su servicio": 2,
+    "twngo internet": 2,
+    "excelente": 1
+  },
+  "neutral": {
+    "nos envíes tus datos": 2,
+    "servicio": 1
+  },
+  "irrelevante": {
+    "falla": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "post_id": "pfbid0VgBRUF2JWLwqhxhi93MTLiKnR8orku3p3FFCzh8S9F3A9pogAehmJTHSrd8jCT4Ll",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-08",
+  "negativo": {
+    "subieron el costo": 2,
+    "costo de mi plan": 2,
+    "entel y me dijeron": 2,
+    "internet": 2,
+    "pésimo": 1
+  },
+  "neutral": {
+    "entel": 3,
+    "tus datos": 2,
+    "señal": 1
+  },
+  "informativo": {
+    "señal de la empresa": 2,
+    "entel": 1,
+    "cobertura": 1,
+    "servicio": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "post_id": "reel_1499405798523397",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-08",
+  "positivo": {
+    "excelente": 1
+  },
+  "negativo": {
+    "cambien a bitel peor": 2,
+    "recarga pésimo servicio": 2,
+    "buena señal": 2,
+    "llamadas normales": 2,
+    "internet": 2,
+    "problema": 1,
+    "app": 1,
+    "red": 1
+  },
+  "irrelevante": {
+    "volte": 1
+  }
+}

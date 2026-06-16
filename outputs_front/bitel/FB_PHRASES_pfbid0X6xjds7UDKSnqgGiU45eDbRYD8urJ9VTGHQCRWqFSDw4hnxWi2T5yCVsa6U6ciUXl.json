@@ -1,0 +1,24 @@
+{
+  "post_id": "pfbid0X6xjds7UDKSnqgGiU45eDbRYD8urJ9VTGHQCRWqFSDw4hnxWi2T5yCVsa6U6ciUXl",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-22",
+  "negativo": {
+    "cambien a bitel": 3,
+    "planes rebajados": 2,
+    "pérdida de datos": 2,
+    "bitel porque su señal": 2,
+    "pésimo": 1
+  },
+  "neutral": {
+    "plan soy bitel toda": 2
+  },
+  "informativo": {
+    "interesa usar bitel": 3,
+    "qué no tiene llamada": 2,
+    "cambiarme de movistar": 2,
+    "ofrece llamada": 2,
+    "llamada por wifi": 2,
+    "plan": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "post_id": "pfbid037H88dq1gr5Rw5eo6yTtxCGhYdHdwUM6GVCWBHUub4dUHmhAc9VwWLbNnJXXm3rmKl",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-29",
+  "positivo": {
+    "excelente": 3,
+    "movistar": 1
+  },
+  "neutral": {
+    "movistar": 2
+  }
+}

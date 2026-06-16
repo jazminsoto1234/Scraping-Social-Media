@@ -1,0 +1,47 @@
+{
+  "post_id": "reel_1249700360483914",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "positivo": {
+    "bueno entel perú": 2,
+    "llevar una señal": 2,
+    "señal que llega": 2,
+    "móvil": 1,
+    "starlink": 1,
+    "cobertura": 1,
+    "llamadas": 1
+  },
+  "negativo": {
+    "asesor de servicio": 3,
+    "reclamo y me solucionaron": 2,
+    "cuelga la llamada": 2,
+    "peor cobertura": 2,
+    "app sale ocurrio": 2,
+    "servicio en vez": 2,
+    "llamada y llega": 2,
+    "línea disponible": 2,
+    "entel perú": 2,
+    "señal": 2,
+    "pésimo": 1,
+    "bueno": 1,
+    "movistar": 1,
+    "claro": 1
+  },
+  "neutral": {
+    "entel": 9,
+    "detalle y tus datos": 2,
+    "tus datos para evitar": 2,
+    "compártenos tus datos por inbox": 2,
+    "ampliar la cobertura": 2,
+    "precio": 1,
+    "señal": 1,
+    "servicio": 1,
+    "disponible": 1
+  },
+  "informativo": {
+    "operador a entel": 3,
+    "llamadas": 1,
+    "plan": 1
+  }
+}

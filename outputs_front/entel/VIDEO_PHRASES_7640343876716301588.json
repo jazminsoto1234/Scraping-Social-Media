@@ -1,0 +1,25 @@
+{
+  "video_id": "7640343876716301588",
+  "operador": "entel",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-16",
+  "negativo": {
+    "internet es una chatarra": 2,
+    "claro claro": 2,
+    "pésimo": 2
+  },
+  "neutral": {
+    "brindar un buen servicio": 2,
+    "buen servicio y experiencia": 2,
+    "saque un plan": 2,
+    "señal": 1,
+    "llamadas": 1,
+    "entel": 1,
+    "datos": 1
+  },
+  "informativo": {
+    "entel lover": 2,
+    "app": 1,
+    "servicio": 1
+  }
+}

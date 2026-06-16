@@ -1,0 +1,40 @@
+{
+  "post_id": "reel_1226928852743903",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "positivo": {
+    "entel": 1
+  },
+  "negativo": {
+    "señal de internet": 2,
+    "débil ni señal": 2,
+    "internet que brindan": 2,
+    "señal muy débil": 2,
+    "entel": 2,
+    "movistar": 1
+  },
+  "neutral": {
+    "recargas con qr": 3,
+    "señal": 3,
+    "propaganda del starlink sms": 2,
+    "starlink sms cuando vaya": 2,
+    "entel tienen esta funcionalidad": 2,
+    "barato fuera de entel": 2,
+    "promoción de movistar": 2,
+    "movistar por el roaming": 2,
+    "viaje para ese roaming": 2,
+    "tus datos para brindarte": 2,
+    "qr porque es parte": 2,
+    "exclusivo con qr desde": 2,
+    "datos internacional incluso": 2,
+    "revisar tu servicio": 2,
+    "servicio de internet": 2,
+    "déjanos tus datos": 2,
+    "plan": 1,
+    "app": 1
+  },
+  "informativo": {
+    "qr": 1
+  }
+}

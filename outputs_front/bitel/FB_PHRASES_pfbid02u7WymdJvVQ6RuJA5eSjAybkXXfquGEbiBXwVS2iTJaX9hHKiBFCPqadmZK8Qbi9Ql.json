@@ -1,0 +1,39 @@
+{
+  "post_id": "pfbid02u7WymdJvVQ6RuJA5eSjAybkXXfquGEbiBXwVS2iTJaX9hHKiBFCPqadmZK8Qbi9Ql",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "positivo": {
+    "contamos con planes potentes": 2,
+    "llevar tu conexión": 2,
+    "señal": 1
+  },
+  "negativo": {
+    "cobertura xq": 3,
+    "resuelven el problema": 3,
+    "dejan poner reclamo": 2,
+    "servicio y la experiencia": 2,
+    "velocidad de tu servicio": 2,
+    "funciona whatsapp": 2,
+    "bitel": 2,
+    "señal": 1
+  },
+  "neutral": {
+    "contamos con cobertura": 4,
+    "verificar si contamos con cobertura": 2,
+    "cobertura por tu zona": 2,
+    "bitel": 2,
+    "servicio": 1,
+    "problema": 1
+  },
+  "informativo": {
+    "señal en sullana": 2,
+    "cobertura casi": 2,
+    "bitel": 1,
+    "red": 1
+  },
+  "irrelevante": {
+    "funciona": 1,
+    "recomiendo": 1
+  }
+}

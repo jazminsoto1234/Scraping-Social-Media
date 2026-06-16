@@ -1,0 +1,49 @@
+{
+  "post_id": "pfbid02qJ3E1P4svHcGxbZh5w6DXEFKsytTyiHmFURpZuXdTcuyEnUuKLEiMCcnPsKpN5cXl",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-08",
+  "positivo": {
+    "mejor señal": 2
+  },
+  "negativo": {
+    "red 5g": 3,
+    "llamadas son pésimas": 2,
+    "adelantado la señal": 2,
+    "volte a pesar": 2,
+    "telefono necesita soporte volte": 2,
+    "línea de bitel": 2,
+    "bitel en el distrito": 2,
+    "lado oscuro bitel corrompido": 2,
+    "corte de luz": 2,
+    "vaya totalmente la señal": 2,
+    "plan mi plan": 2,
+    "luz y cae bitel": 2,
+    "cae bitel por completo": 2,
+    "tener plan alto": 2,
+    "plan debe": 2,
+    "señal y tener": 2,
+    "pasa con bitel": 2,
+    "bitel el plan": 2,
+    "responder las llamadas": 2,
+    "llamadas de reclamo": 2,
+    "internet": 2,
+    "genial": 1,
+    "cobertura": 1,
+    "servicio": 1,
+    "pésimo": 1
+  },
+  "neutral": {
+    "uní a bitel": 2,
+    "bitel por bipay": 2,
+    "mejoren sus planes": 2
+  },
+  "informativo": {
+    "figura el 5g": 2,
+    "cobertura 5g": 2,
+    "señal": 2,
+    "móvil": 1,
+    "internet": 1,
+    "bitel": 1
+  }
+}

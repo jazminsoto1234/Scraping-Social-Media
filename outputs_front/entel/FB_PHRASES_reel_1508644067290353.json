@@ -1,0 +1,30 @@
+{
+  "post_id": "reel_1508644067290353",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "positivo": {
+    "servicio": 1
+  },
+  "negativo": {
+    "bono de internet ilimitado": 2,
+    "sabes cómo retenerme": 2,
+    "dos planes": 2,
+    "funciona": 1,
+    "excelente": 1,
+    "lento": 1,
+    "entel": 1
+  },
+  "neutral": {
+    "contarte cómo cambiarte": 2,
+    "señal power": 2,
+    "tus datos": 2,
+    "entel": 2
+  },
+  "informativo": {
+    "neo 5 gt 5g": 2,
+    "línea prepago en entel": 2,
+    "cómo": 1,
+    "señal": 1
+  }
+}

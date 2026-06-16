@@ -1,0 +1,52 @@
+{
+  "post_id": "pfbid0bBQDyQUSHvfp7UowAgc6XoYGGitEj1JQDuymVWJvFAmpHd785cx4Wi5FviQZJTfdl",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "positivo": {
+    "servicio": 1
+  },
+  "negativo": {
+    "va toda mi señal": 2,
+    "cambie de claro pensando": 2,
+    "peor conexión a internet": 2,
+    "internet en muchas ciudades": 2,
+    "cambio de ingresar datos": 2,
+    "ingresar datos de tarjeta": 2,
+    "señal me cambie": 2,
+    "puede recibir llamadas": 2,
+    "mala conexión": 2,
+    "dónde están": 2,
+    "entel": 2,
+    "movistar": 2,
+    "sms": 1,
+    "estafa": 1,
+    "reclamo": 1
+  },
+  "neutral": {
+    "conexión satelital viene incorporado": 2,
+    "mismo precio": 2,
+    "plan": 1
+  },
+  "informativo": {
+    "queja está resuelta": 3,
+    "entel": 3,
+    "amplíen su cobertura": 2,
+    "haya señal": 2,
+    "tendrán más datos": 2,
+    "datos para implementar mejoras": 2,
+    "funcionan porque el problema": 2,
+    "problema es congestión": 2,
+    "red de manera general": 2,
+    "queja por no cumplir": 2,
+    "están cambiando de plan": 2,
+    "congestión de red": 2,
+    "bueno": 2,
+    "servicio": 1,
+    "internet": 1,
+    "minutos": 1
+  },
+  "irrelevante": {
+    "excelente": 1
+  }
+}

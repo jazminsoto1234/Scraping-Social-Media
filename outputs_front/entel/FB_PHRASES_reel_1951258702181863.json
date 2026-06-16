@@ -1,0 +1,31 @@
+{
+  "post_id": "reel_1951258702181863",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "positivo": {
+    "entel": 2,
+    "excelente": 1
+  },
+  "negativo": {
+    "señal de internet": 2,
+    "entel": 2,
+    "plan": 1,
+    "pésimo": 1,
+    "servicio": 1,
+    "movistar": 1
+  },
+  "neutral": {
+    "capturas de tu app": 2,
+    "app y detalles": 2,
+    "experiencia con tu plan": 2,
+    "brindar datos personales fuera": 2,
+    "entel": 2
+  },
+  "informativo": {
+    "entel": 1
+  },
+  "irrelevante": {
+    "app": 1
+  }
+}

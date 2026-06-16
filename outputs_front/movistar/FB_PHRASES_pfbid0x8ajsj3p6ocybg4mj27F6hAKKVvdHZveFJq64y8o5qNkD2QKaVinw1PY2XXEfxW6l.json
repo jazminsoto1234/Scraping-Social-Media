@@ -1,0 +1,24 @@
+{
+  "post_id": "pfbid0x8ajsj3p6ocybg4mj27F6hAKKVvdHZveFJq64y8o5qNkD2QKaVinw1PY2XXEfxW6l",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-29",
+  "neutral": {
+    "equipo celular 5g": 3,
+    "tenga la red": 3,
+    "tus datos a través": 3,
+    "movistar": 3,
+    "estás interesado en esta excelente": 2,
+    "interesado en esta excelente promoción": 2,
+    "envíanos tus datos a través": 2,
+    "datos a través de nuestra": 2,
+    "precio": 1,
+    "servicio": 1
+  },
+  "informativo": {
+    "movistar": 1
+  },
+  "irrelevante": {
+    "funciona su libro": 2
+  }
+}

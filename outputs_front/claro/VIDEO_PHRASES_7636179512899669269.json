@@ -1,0 +1,19 @@
+{
+  "video_id": "7636179512899669269",
+  "operador": "claro",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-04",
+  "positivo": {
+    "servicio": 1
+  },
+  "negativo": {
+    "lento": 1,
+    "cobertura": 1
+  },
+  "neutral": {
+    "claro": 4,
+    "desde tu app": 2,
+    "sabes cómo recargar": 2,
+    "dónde": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "post_id": "pfbid02zBjFcNvfgLBnFB1wLFPaa3NFEWyJtNLZspdtpbKtpiWxSRuAfEZHntRAFgpeBe2Gl",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "negativo": {
+    "movistar": 1
+  },
+  "neutral": {
+    "tus datos": 2,
+    "servicio": 1
+  },
+  "irrelevante": {
+    "falla de origen": 2,
+    "canal de falla": 2
+  }
+}

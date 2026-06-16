@@ -1,0 +1,26 @@
+{
+  "video_id": "7642855925656685831",
+  "operador": "entel",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-22",
+  "positivo": {
+    "entel": 1
+  },
+  "neutral": {
+    "entel ya puedes acceder": 2,
+    "entel lover": 2,
+    "movistar": 1,
+    "corte": 1,
+    "cobertura": 1,
+    "móvil": 1,
+    "sms": 1,
+    "planes": 1,
+    "requisitos": 1,
+    "servicio": 1,
+    "starlink": 1
+  },
+  "informativo": {
+    "entel lover": 2,
+    "starlink": 1
+  }
+}

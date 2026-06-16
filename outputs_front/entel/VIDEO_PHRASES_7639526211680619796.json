@@ -1,0 +1,29 @@
+{
+  "video_id": "7639526211680619796",
+  "operador": "entel",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-13",
+  "positivo": {
+    "hoy es hoy bitel": 2,
+    "equipo de entel": 2,
+    "entel te envía": 2,
+    "servicio": 1
+  },
+  "negativo": {
+    "desgracia entel bajo mucho": 2,
+    "internet": 1
+  },
+  "neutral": {
+    "plan y equipo": 2,
+    "camio a entel": 2,
+    "entel me dan oferta": 2,
+    "déjanos tus datos": 2,
+    "inbox con tus datos": 2,
+    "rápido que los spoilers": 2,
+    "entel lover": 2
+  },
+  "informativo": {
+    "cambio a entel": 2,
+    "genial": 1
+  }
+}

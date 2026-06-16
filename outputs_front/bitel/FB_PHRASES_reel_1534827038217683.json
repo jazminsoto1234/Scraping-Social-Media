@@ -1,0 +1,39 @@
+{
+  "post_id": "reel_1534827038217683",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "negativo": {
+    "servicio de internet hogar": 4,
+    "problema menor": 4,
+    "bitel me trataron": 3,
+    "sus plataforma seria bueno": 2,
+    "señal inestable": 2,
+    "pésimo soporte técnico": 2,
+    "empresa bitel perú": 2,
+    "internet hogar se interrumpió": 2,
+    "demuestra una falla general": 2,
+    "internet hogar de bitel": 2,
+    "servicio al cliente": 2,
+    "bitel todos se hicieron": 2,
+    "envíe el código qr": 2,
+    "pasa con bitel": 2,
+    "bitel el plan": 2,
+    "plan mi plan": 2,
+    "plan no aparece": 2,
+    "bitel ha sido": 2,
+    "contratar el servicio": 2,
+    "bitel que desistan": 2,
+    "recarga pésimo servicio": 2,
+    "corte": 1
+  },
+  "neutral": {
+    "problema persiste o necesitas": 2,
+    "bitel": 1,
+    "volte": 1,
+    "señal": 1
+  },
+  "informativo": {
+    "bitel": 2
+  }
+}

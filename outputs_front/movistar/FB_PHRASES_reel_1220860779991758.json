@@ -1,0 +1,17 @@
+{
+  "post_id": "reel_1220860779991758",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-22",
+  "positivo": {
+    "movistar": 2
+  },
+  "negativo": {
+    "internet": 1,
+    "señal": 1
+  },
+  "informativo": {
+    "minutos": 1,
+    "dónde": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "post_id": "reel_1942423163078384",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-08",
+  "negativo": {
+    "señal": 3,
+    "solucionar un problema": 2,
+    "entel y me enviaron": 2,
+    "enviaron un qr usado": 2,
+    "servicio y atención": 2,
+    "internet deja mucho": 2,
+    "app": 2,
+    "movistar": 2,
+    "reclamo": 1,
+    "4g": 1,
+    "llamada": 1,
+    "plan": 1,
+    "funciona": 1
+  },
+  "neutral": {
+    "entel": 8,
+    "incidente con tu app": 2,
+    "ayudarte con tu señal": 2,
+    "señal a la brevedad": 2,
+    "revisaremos tu señal": 2,
+    "déjanos tus datos": 2,
+    "revisaremos tu servicio": 2,
+    "internet": 1
+  },
+  "informativo": {
+    "reinstalar la app": 2,
+    "app y volver": 2,
+    "entel": 1
+  },
+  "irrelevante": {
+    "recomiendo": 1
+  }
+}

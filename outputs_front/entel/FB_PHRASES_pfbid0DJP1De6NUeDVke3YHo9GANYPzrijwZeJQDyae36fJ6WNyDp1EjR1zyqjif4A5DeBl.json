@@ -1,0 +1,15 @@
+{
+  "post_id": "pfbid0DJP1De6NUeDVke3YHo9GANYPzrijwZeJQDyae36fJ6WNyDp1EjR1zyqjif4A5DeBl",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-08",
+  "positivo": {
+    "entel": 1
+  },
+  "negativo": {
+    "entel y me enviaron": 2,
+    "enviaron un qr usado": 2,
+    "pésimo": 1,
+    "servicio": 1
+  }
+}

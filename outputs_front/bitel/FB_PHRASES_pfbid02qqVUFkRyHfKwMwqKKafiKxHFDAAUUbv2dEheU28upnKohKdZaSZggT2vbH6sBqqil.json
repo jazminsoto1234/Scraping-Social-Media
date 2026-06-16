@@ -1,0 +1,27 @@
+{
+  "post_id": "pfbid02qqVUFkRyHfKwMwqKKafiKxHFDAAUUbv2dEheU28upnKohKdZaSZggT2vbH6sBqqil",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-29",
+  "negativo": {
+    "misma canción con bitel": 2,
+    "bitel no hay cobertura": 2,
+    "reclamo de otro operador": 2,
+    "agente bitel": 2,
+    "agente bitel para pedir": 2,
+    "señal": 2,
+    "app": 1,
+    "funciona": 1
+  },
+  "neutral": {
+    "problema persiste o necesitas": 4,
+    "nos comentas sobre la señal": 2,
+    "experiencia con nuestro servicio": 2,
+    "bitel": 2,
+    "móvil": 1,
+    "app": 1
+  },
+  "informativo": {
+    "app bitel el celular": 2
+  }
+}

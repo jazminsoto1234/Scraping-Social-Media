@@ -1,0 +1,406 @@
+{
+  "operador": "claro",
+  "total_comentarios": 545,
+  "positivo": {
+    "Promoción y beneficios FullClaro": {
+      "frecuencia": 13,
+      "representativas": [
+        "Susy te queda muy bie el corte de cabello",
+        "Hola tía susi y me encanta tu persona si vamos a Cancún",
+        "¡Vamos, Eimy! 🤩 Conviértete en #FullClaro y disfruta full beneficios. 😎"
+      ]
+    },
+    "Promoción Full Claro Música": {
+      "frecuencia": 4,
+      "representativas": [
+        "¡Es tu momento! 🙌 Conviértete hoy en #FullClaro y arma tu playlist con Claro Música Premium gratis. Llama al 0 800 00 200 para más info. 🤗👏",
+        "¡Vamos! 😍 Conviértete en #FullClaro y arma la mejor playlist con Claro Música Premium gratis.✨ Para más información, llama al 0 800 00 200. 🙌",
+        "¡Anímate! 🙌 Conviértete hoy en Full Claro y arma tu playlist con Claro Música Premium gratis. Solo llámanos al 0 800 00 200 para más detalles. 👏😎"
+      ]
+    },
+    "Agradecimiento y servicio al cliente": {
+      "frecuencia": 4,
+      "representativas": [
+        "¡Gracias por la preferencia, Tita! Dia a día trabajamos para brindarles lo mejor de nosotros. ✌️ 😉",
+        "¡Gracias por la preferencia! Sigue disfrutando de nuestro servicio y promociones. Estamos siempre a tu disposición. 🙌",
+        "¡Muchas gracias por tu preferencia! 😊 Nos alegra tener a nuestros clientes satisfechos. ¡Sigue disfrutando de nuestro servicio! 🙌"
+      ]
+    },
+    "Satisfacción con servicio de internet": {
+      "frecuencia": 3,
+      "representativas": [
+        "Excelente servicio de internet Claro",
+        "Solo con Claro tengo la conectividad que necesito. 🛜 Hasta ahora su internet no me decepciona. 🙂",
+        "¡Claro que sí, Jean! 🤩 Contrata tu plan de internet de 500 Mbps y disfruta de 1000 Mbps de velocidad por un año. 🚀🏠 Conoce todos los detalles y solicítalo aquí 👉 https://ow.ly/QClY2000KcW. ¡Te esperamos! 🙌"
+      ]
+    }
+  },
+  "negativo": {
+    "Internet lento y cortes": {
+      "frecuencia": 27,
+      "representativas": [
+        "Pesimo internet",
+        "muy lento esta cobertura",
+        "Arreglen la web lento la señal"
+      ]
+    },
+    "Quejas por servicio y llamadas": {
+      "frecuencia": 19,
+      "representativas": [
+        "Desde hace días quiero hablar con un asesor y me cortan la llamada a cada rato",
+        "Qué pésimo atención al cliente tienen, estoy que llamo para hacer un reclamo y me cortan😡",
+        "Pésimo servicio, operador inestable, personal incapaz o no les importa el cliente solo sus bolsillos."
+      ]
+    },
+    "Cobros indebidos y mala atención": {
+      "frecuencia": 17,
+      "representativas": [
+        "Claro Perú No funciona",
+        "Claro Perú, El peor servicio de cable e internet",
+        "Claro Perú Mejoren su trabajo de \"planta externa\". Para dar MAL SERVICIO son campeones"
+      ]
+    },
+    "Quejas sobre atención y señal de Claro": {
+      "frecuencia": 10,
+      "representativas": [
+        "Claro no sirve",
+        "yo no quiero saber nada de claro",
+        "no rimo Susy, claro te quita el estilo"
+      ]
+    },
+    "Problemas de señal e internet": {
+      "frecuencia": 10,
+      "representativas": [
+        "No tengo Internet desde la mañana que fue",
+        "Sin Internet toda la tarde … arreglen su señal",
+        "No hay señal, ni internet ni cable! Que rayos pasa"
+      ]
+    },
+    "Problemas con atención al cliente": {
+      "frecuencia": 9,
+      "representativas": [
+        "Deberían mejor su señal , ya  dos días sin tener",
+        "[Sticker] luego d 48 horas para solucionar averías,",
+        "Pésimo, te tienen horas esperando a un asesor y te cortan"
+      ]
+    },
+    "Problemas de señal e internet (2)": {
+      "frecuencia": 8,
+      "representativas": [
+        "QUIERO MIGRAR PRONTO ENTEL ME DEFRAUDÓ",
+        "CLARO SIGUE FALLANDO ,POR MOMENTOS HAY SEÑAL",
+        "3 MESES INTENTANDO PASAR A POSTPAGO Y NO DAN RESPUESTA."
+      ]
+    },
+    "Mala calidad de servicio": {
+      "frecuencia": 8,
+      "representativas": [
+        "Su servicio malisimo",
+        "Realmente mal servicio",
+        "Una vergüenza de servicio!!!!!"
+      ]
+    },
+    "Solicitud de asistencia internet": {
+      "frecuencia": 8,
+      "representativas": [
+        "Patricio, al ingresar por inbox selecciona la opción “Soporte y Averías” para que podamos revisar tu servicio y brindarte la atención correspondiente. Quedamos atentos.",
+        "Hola, Carmen. Estamos listos para ayudarte con tu servicio de internet. Escríbenos aquí https://cl4ro.pe/InboxFB y selecciona la opción \"Soporte y averías\" para revisar tu caso. Estamos atentos a tu comunicación.",
+        "Hola, Stana. Queremos revisar lo que nos comentas. Estamos listos para ayudarte. Escríbenos por inbox aquí https://cl4ro.pe/InboxFB y selecciona la opción 'Soporte y averías' para que uno de nuestros asesores te brinde el soporte necesario."
+      ]
+    },
+    "Fallas de internet y atención": {
+      "frecuencia": 8,
+      "representativas": [
+        "llevo días sin servicio y uds no contestan, claro empresas",
+        "no tengo internet desde la mañana y escribo al wsp y me dejan esperando su asesora desde las 8 am",
+        "mal servicio desde viernes no tengo Internet hogar. Llamo me dicen q vendrán técnicos a mi domicilio más de 48 horas y nada. MAL SERVICIO"
+      ]
+    },
+    "Falta de respuesta del servicio al cliente": {
+      "frecuencia": 6,
+      "representativas": [
+        "no responden las llamadas",
+        "Pésima atención, no tengo señal, intento comunicarme por el canal de Wts y no responden!",
+        "Para que escribir no responderán estoy que llamo y no logró contactarme con un operador 🤮"
+      ]
+    },
+    "Insatisfacción con servicio y atención": {
+      "frecuencia": 5,
+      "representativas": [
+        "Me quedo con Movistar, me he decepcionado de Claro.",
+        "Movistar está pésimo ahora me pase a claro buen servicio 👍",
+        "No pasa nada con la tía ya me desanimo para cambiarme a Movistar"
+      ]
+    },
+    "Promoción FullClaro y beneficios": {
+      "frecuencia": 5,
+      "representativas": [
+        "el mejor claro hogar 😁🥰🥰🥰💞💗 las mejores promociones 🥰",
+        "¡Ya lo sabes! 😊 Estar conectado con mamá, ¡es un buen plan! 🙌",
+        "¡Más que comprobado, Brya! Disfrutas a full si tienes Claro en casa y en tu celu. 🤩"
+      ]
+    },
+    "Problemas con atención al cliente (2)": {
+      "frecuencia": 5,
+      "representativas": [
+        "No contestan en “atención al cliente” cuando uno llama y por WhatsApp tampoco. Le sube el plan a uno sin que les confirme.",
+        "Si servicio de atención al cliente es una desgracia, necesito urgente contactarme con un asesor, he llamado y me hacen esperar y luego solo cortan. Igual en WhatsApp, simplemente, no sirve",
+        "No cumplen con lo ofrecido en el área de baja, es un dolor de cabeza la atención por WhatsApp( me cerraron la conversación a media validación)y que decir cuando realizas una llamada atención al cliente nunca te contesta."
+      ]
+    },
+    "Problemas de cancelación y facturación": {
+      "frecuencia": 5,
+      "representativas": [
+        "Vengo cancelando el servicio de claro hogar desde el mes antepasado y me siguen facturando hasta la fecha todo las veces llamo y no me dan ninguna solución",
+        "@Mat: Vengo cancelando el servicio de claro hogar desde el mes antepasado y me siguen facturando hasta la fecha todo las veces llamo y no me dan ninguna solución",
+        "Buenas tardes, lamentablemente su servicio es pésimo, estoy tratando de comunicarme con ustedes ya van dos días y hasta no tengo respuesta. Me cuelgan desde mi teléfono celular y desde el teléfono de casa - claro hogar. Necesito, anular el servicio que se tiene con ustedes."
+      ]
+    },
+    "Quejas sobre calidad del servicio": {
+      "frecuencia": 5,
+      "representativas": [
+        "Claro es la peor kgada",
+        "definitivamente la peor línea",
+        "definitivamente la peor línea 🙄"
+      ]
+    },
+    "Promoción FullClaro velocidad": {
+      "frecuencia": 4,
+      "representativas": [
+        "¡Vamos! 😍 Con #FullClaro tienes el doble de velocidad en casa y en tu móvil. 🙌 Llama al 0800 00200 y disfruta como Susy. 💋",
+        "¡Claro que sí! 😍 Con #FullClaro tienes el doble de velocidad en casa y en tu móvil. 🙌 Llama al 0800 00200 y disfruta como Susy. 💋",
+        "¡Vamos, Valeria! 😍 Con #FullClaro tienes el doble de velocidad en casa y en tu móvil. 🙌 Llama al 0800 00200 y disfruta como Susy. 💋"
+      ]
+    },
+    "Cancelación de servicio y mala atención": {
+      "frecuencia": 4,
+      "representativas": [
+        "Llamo y cuelgan !!!!!! 😡 quiero anular el servicio",
+        "Quiero cancelar mi claro hogar. Me pueden dejar de pasear y responderme",
+        "pésimo servicio me van a subir el plan sin mi autorización y no contestan cuando quiero cancelar eso 😡"
+      ]
+    },
+    "Problemas cambio de plan y cobros": {
+      "frecuencia": 4,
+      "representativas": [
+        "Hace 1 mes sin cable y me siguen cobrando como si lo tuviera! ¡Qué les pasa! Y ni contestan las llamadas.",
+        "Cambié de postpago a prepago y hasta el día de hoy no se comunican conmigo  para corroborar el cambio trato de comunicarme y no tengo respuesta están esperando que se facture para que vuelva a pagar y cobrarme",
+        "No vienen a recoger su equipo y me han facturado el monto total , llamo y me dicen que me descontarán ya que yo corté el internet mucho antes de la fecha de facturación sin embargo no me dan ninguna nueva factura"
+      ]
+    },
+    "Problemas de conectividad y llamadas": {
+      "frecuencia": 4,
+      "representativas": [
+        "Hola,\nTengo problemas de conexión en mi celular",
+        "En Piura estoy sin internet, llamo pero me cortan la llamada",
+        "Tengo problemas con la carga de mi correo de Gmail, meet y drive, por favor necesito puedan verificar el estado de la red"
+      ]
+    }
+  },
+  "neutral": {
+    "Solicitud de contacto por DM": {
+      "frecuencia": 29,
+      "representativas": [
+        "Necesito comunicarme urgente con el área de atención al cliente por favor 🙏🏼",
+        "Hola, Gilmer. Escríbenos al Dm para poder revisar lo que nos comentas acerca de tu plan. Quedamos atentos.",
+        "Hola, Abdur. Escríbenos al Dm para poder revisar lo que nos comentas acerca de la señal de tu servicio. Estamos atentos."
+      ]
+    },
+    "Promoción FullClaro y líneas adicionales": {
+      "frecuencia": 19,
+      "representativas": [
+        "quiero una línea adicional post pago",
+        "Me muero con la rapidez y está en 5G",
+        "hola buenas tardes dónde puedo recuperar mi número"
+      ]
+    },
+    "Saludos y menciones a Claro": {
+      "frecuencia": 13,
+      "representativas": [
+        "Quiero linea",
+        "Clarolover❤️❤️🍎",
+        "Claro pe clarito"
+      ]
+    },
+    "Invitación a contactar por inbox": {
+      "frecuencia": 10,
+      "representativas": [
+        "Hola, Vicente. Estamos listos para ayudarte con tu señal de internet. Escríbenos por inbox aquí https://cl4ro.pe/InboxFB para revisar tu caso y brindarte asistencia.",
+        "Hola, Jorge. Permítenos revisar lo ocurrido con tu servicio hogar. Escríbenos por inbox y selecciona la opción “Escribe tu consulta”, luego cuéntanos el detalle de lo sucedido en un solo texto y sigue las instrucciones. Quedamos a tu disposición.",
+        "Hola, Soledad. Queremos revisar lo ocurrido con la atención brindada. Por favor, escríbenos por inbox, selecciona la opción “Escribe tu consulta” y cuéntanos lo sucedido en un solo mensaje. Estamos atentos para brindarte el soporte que necesites."
+      ]
+    },
+    "Promociones y descuentos ClaroClub": {
+      "frecuencia": 8,
+      "representativas": [
+        "claro música no es gratis",
+        "¡Con #PrepagoChevere recargar es más fácil, Sebas! 😉 Hazlo ya desde tu app Mi Claro. 😎",
+        "¡Vamos, Sonia! Conviértete hoy en #FullClaro y arma tu playlist con Claro Música Premium gratis. ✌️😀"
+      ]
+    },
+    "Mensaje de bienvenida y asistencia": {
+      "frecuencia": 6,
+      "representativas": [
+        "Wilmer R. Sanchez Becerra la idea es ver que alternativas pueden darte para mejorar tu servicio antes que tomes la decisión final.",
+        "Hola, Yomira. Nosotros también somos un canal de atención. Por favor, escríbenos por interno para brindarte el soporte necesario. Te esperamos.",
+        "Hola, estamos listos para ayudarte. Revisa todos nuestros canales de atención para que elijas el que mejor se ajuste a tu necesidad aquí https://cl4ro.pe/canales_de_ayuda_"
+      ]
+    },
+    "Invitación a contactar por WhatsApp": {
+      "frecuencia": 4,
+      "representativas": [
+        "Hola, Cesar. Estamos listos para ayudarte. Escríbenos aquí https://cl4ro.pe/InboxFB y describe brevemente tu caso para darte el soporte que necesitas. Te esperamos.",
+        "Hola, Soledad. Estamos listos para ayudarte. Escríbenos por WhatsApp aquí https://cl4ro.pe/WhatsApp. Selecciona 'Escribe tu consulta' y describe tu caso en un solo mensaje para agilizar la atención. Estaremos atentos.",
+        "Hola, Gian. Estamos listos para ayudarte con tu inconveniente de señal. Escríbenos por WhatsApp aquí https://cl4ro.pe/WhatsApp, selecciona 'Escribe tu consulta' y describe tu caso en un solo mensaje para recibir soporte."
+      ]
+    },
+    "Mejora de beneficios y planes": {
+      "frecuencia": 3,
+      "representativas": [
+        "Hola, Cristhian. Estamos mejorando los beneficios para nuestros clientes. Si quieres revisar los planes vigentes o tienes dudas, llámanos al 123.",
+        "Hola. Estamos mejorando los beneficios para nuestros clientes con más GB en alta velocidad. Si no estás conforme con el cambio, te invitamos a revisar los planes vigentes https://cl4ro.pe/cpostpago y elegir el que te convenga. Si tienes dudas llámanos al 123",
+        "Cecilia, estamos mejorando los beneficios para nuestros clientes con más GB en alta velocidad. Si no estás conforme con el cambio, te invitamos a revisar los planes vigentes https://cl4ro.pe/cpostpago y elegir el que te convenga. Si tienes dudas llámanos al 123"
+      ]
+    },
+    "Solicitud de portabilidad": {
+      "frecuencia": 3,
+      "representativas": [
+        "para portabilidad",
+        "Quiero portabilidad",
+        "Quiero un plan, recargo mucho, como me podría contactar"
+      ]
+    }
+  },
+  "informativo": {
+    "Consultas y reclamos de servicio": {
+      "frecuencia": 34,
+      "representativas": [
+        "Que fue con la red",
+        "WhatsApp? dónde les escribo",
+        "Cundo contestaran las llamadas?"
+      ]
+    },
+    "Promoción y consultas FullClaro": {
+      "frecuencia": 17,
+      "representativas": [
+        "Que buena",
+        "Que feo oeee",
+        "No hay otra...?"
+      ]
+    },
+    "Solicitud de asistencia al cliente": {
+      "frecuencia": 9,
+      "representativas": [
+        "Hola, Maria. Coméntanos, ¿en qué podemos ayudarte? 😀",
+        "¡Hola, Erika! ¿Nos podrías aclarar tu consulta, por favor?",
+        "¡Hola, Sandra! ¿Nos podrías aclarar tu consulta, por favor?"
+      ]
+    }
+  },
+  "irrelevante": {
+    "Respuestas automáticas genéricas": {
+      "frecuencia": 17,
+      "representativas": [
+        "Quiero hablar con un asesor",
+        "¡Ya sabes a dónde llamar para solicitar las mejores promos! 😎",
+        "Favor cómo hacer para rejuvenecer.ayudenos .un alcance.por favor ❤️"
+      ]
+    },
+    "Problemas de atención al cliente": {
+      "frecuencia": 15,
+      "representativas": [
+        "Pennywise",
+        "El 123 no funciona",
+        "no lo puedo activar"
+      ]
+    },
+    "Reacciones emocionales y humor": {
+      "frecuencia": 14,
+      "representativas": [
+        "me da miedo 😰",
+        "De lo peor!!!!",
+        "me asusté con Susi"
+      ]
+    },
+    "Mensajes de ánimo genéricos": {
+      "frecuencia": 11,
+      "representativas": [
+        "tú si a",
+        "te queremos susy",
+        "¡Contamos contigo! 🥰"
+      ]
+    },
+    "Stickers y contenido sin relevancia": {
+      "frecuencia": 10,
+      "representativas": [
+        "[Sticker] ",
+        "[Sticker] Oí",
+        "[Sticker] migajeando core:"
+      ]
+    },
+    "Comentarios sin sentido": {
+      "frecuencia": 8,
+      "representativas": [
+        "riicoo",
+        "Romero",
+        "jajajaj"
+      ]
+    },
+    "Comentarios sin relación": {
+      "frecuencia": 8,
+      "representativas": [
+        "ya fue",
+        "Ya susi",
+        "Ya quemó"
+      ]
+    },
+    "Mensajes de cariño familiar": {
+      "frecuencia": 7,
+      "representativas": [
+        "linda Susy🥰",
+        "Mi tía susi ❤",
+        "claudia bavel."
+      ]
+    },
+    "Saludos y expresiones informales": {
+      "frecuencia": 6,
+      "representativas": [
+        "ya les envie",
+        "Lindo saludo 🥰",
+        "¡Buena, Edu! ✌️😎"
+      ]
+    },
+    "Solicitudes de información": {
+      "frecuencia": 6,
+      "representativas": [
+        "Informes",
+        "Información",
+        "Más información"
+      ]
+    },
+    "Mensajes sin contenido relevante": {
+      "frecuencia": 5,
+      "representativas": [
+        "La chuchyyyy",
+        "boca de sapo",
+        "xDD los ojos we"
+      ]
+    },
+    "Referencias a manzana": {
+      "frecuencia": 3,
+      "representativas": [
+        "una manzana🗣️🗣️",
+        "Pero es iPhone 🫪",
+        "se a pintado la voca con esa manzana acaramelada 🤣😂😅"
+      ]
+    },
+    "Comentarios positivos genéricos": {
+      "frecuencia": 3,
+      "representativas": [
+        "genial!",
+        "¡Buena voz! ✌😉",
+        "El siguiente episodio la serie es muy buena"
+      ]
+    }
+  }
+}

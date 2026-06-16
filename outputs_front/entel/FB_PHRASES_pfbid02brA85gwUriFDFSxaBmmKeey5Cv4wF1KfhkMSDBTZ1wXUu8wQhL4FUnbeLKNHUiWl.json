@@ -1,0 +1,35 @@
+{
+  "post_id": "pfbid02brA85gwUriFDFSxaBmmKeey5Cv4wF1KfhkMSDBTZ1wXUu8wQhL4FUnbeLKNHUiWl",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "positivo": {
+    "gracias entel": 2
+  },
+  "negativo": {
+    "subieron el costo": 4,
+    "calidad de las llamadas": 3,
+    "llamadas por voz": 3,
+    "problema ocurre": 3,
+    "señal de mi celular": 2,
+    "costo del plan": 2,
+    "función de volte llamadas": 2,
+    "llamadas 4g no funcionan": 2,
+    "internet móvil deben": 2,
+    "promoción de entel": 2,
+    "red 4g": 2,
+    "problema sí": 2
+  },
+  "neutral": {
+    "entel": 9,
+    "problema no está": 3,
+    "mejore el servicio": 2,
+    "inconveniente de señal": 2,
+    "revisaremos tu señal": 2,
+    "servicio de internet": 2,
+    "internet de toda": 2
+  },
+  "irrelevante": {
+    "app": 1
+  }
+}

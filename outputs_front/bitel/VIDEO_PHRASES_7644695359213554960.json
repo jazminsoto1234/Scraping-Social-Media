@@ -1,0 +1,29 @@
+{
+  "video_id": "7644695359213554960",
+  "operador": "bitel",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-27",
+  "negativo": {
+    "bitel": 7,
+    "baja y nula señal": 2,
+    "nula señal de internet": 2,
+    "internet con este mes": 2,
+    "ay internet súbele": 2,
+    "pasa con la señal": 2,
+    "señal ya van meses": 2,
+    "meses que el internet": 2,
+    "internet es demasiado bajo": 2,
+    "internet no llega": 2,
+    "regla tu señal": 2,
+    "funciona": 1
+  },
+  "neutral": {
+    "sigue bitel me cambio": 2,
+    "esperando q bitel": 2,
+    "bitel me saludé": 2,
+    "señal": 1
+  },
+  "informativo": {
+    "bitel": 2
+  }
+}

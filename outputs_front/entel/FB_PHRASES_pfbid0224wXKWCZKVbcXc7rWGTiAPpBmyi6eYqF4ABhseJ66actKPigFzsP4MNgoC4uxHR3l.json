@@ -1,0 +1,18 @@
+{
+  "post_id": "pfbid0224wXKWCZKVbcXc7rWGTiAPpBmyi6eYqF4ABhseJ66actKPigFzsP4MNgoC4uxHR3l",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "positivo": {
+    "entel": 2
+  },
+  "negativo": {
+    "entel": 2,
+    "funciona": 1,
+    "app": 1
+  },
+  "neutral": {
+    "inconveniente con la app": 2,
+    "entel": 2
+  }
+}

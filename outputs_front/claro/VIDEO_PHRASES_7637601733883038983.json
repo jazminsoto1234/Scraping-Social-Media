@@ -1,0 +1,18 @@
+{
+  "video_id": "7637601733883038983",
+  "operador": "claro",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-08",
+  "negativo": {
+    "plan": 1
+  },
+  "neutral": {
+    "servicio": 2,
+    "claro": 1,
+    "problema": 1
+  },
+  "irrelevante": {
+    "sabes a dónde llamar": 2,
+    "dónde llamar para solicitar": 2
+  }
+}

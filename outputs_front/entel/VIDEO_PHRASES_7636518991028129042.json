@@ -1,0 +1,70 @@
+{
+  "video_id": "7636518991028129042",
+  "operador": "entel",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-05",
+  "positivo": {
+    "y39 5g desde": 3,
+    "descontar el precio": 2,
+    "precio que costó": 2,
+    "compre no uso internet": 2,
+    "uso internet en casa": 2,
+    "sticker entel": 2,
+    "bueno": 1,
+    "servicio": 1,
+    "increíble": 1,
+    "perfecto": 1,
+    "cobertura": 1
+  },
+  "negativo": {
+    "ningún problema": 2,
+    "cortaron la red": 2,
+    "vivo y entel nunca": 2,
+    "operador xq bitel": 2,
+    "solucionar mi problema": 2,
+    "bueno": 2,
+    "internet": 2,
+    "rápido": 1,
+    "recomiendo": 1,
+    "qr": 1,
+    "servicio": 1,
+    "pésimo": 1,
+    "señal": 1,
+    "cobertura": 1
+  },
+  "neutral": {
+    "entel lover": 6,
+    "vivo v70 fe 5g": 4,
+    "precio": 4,
+    "cae cada rato": 3,
+    "plan previa evaluación crediticia": 2,
+    "entel a renovar": 2,
+    "conoce cómo puedes llevarte": 2,
+    "increíble pues": 2,
+    "bueno resitente": 2,
+    "fui a entel": 2,
+    "señal": 2,
+    "problema": 1,
+    "claro": 1,
+    "servicio": 1,
+    "perfecto": 1,
+    "dónde": 1,
+    "cobertura": 1,
+    "rápido": 1
+  },
+  "informativo": {
+    "entel lover": 8,
+    "equipazo llega con 5g": 2,
+    "cuánto": 1,
+    "bueno": 1,
+    "app": 1,
+    "plan": 1,
+    "señal": 1,
+    "dónde": 1
+  },
+  "irrelevante": {
+    "vivo muy bueno": 3,
+    "bueno y en batería": 2,
+    "qr": 1
+  }
+}

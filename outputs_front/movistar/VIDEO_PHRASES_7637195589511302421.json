@@ -1,0 +1,13 @@
+{
+  "video_id": "7637195589511302421",
+  "operador": "movistar",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-28",
+  "negativo": {
+    "servicio": 1,
+    "movistar": 1
+  },
+  "neutral": {
+    "contrato este servicio": 2
+  }
+}

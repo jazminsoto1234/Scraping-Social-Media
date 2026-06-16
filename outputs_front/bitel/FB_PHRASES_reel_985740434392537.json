@@ -1,0 +1,40 @@
+{
+  "post_id": "reel_985740434392537",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-22",
+  "negativo": {
+    "servicio en postpago": 3,
+    "bitel": 3,
+    "envíe el código qr": 2,
+    "señal de mrd": 2,
+    "iquitos su red": 2,
+    "año con este servicio": 2,
+    "gran problema": 2,
+    "envia sms": 2,
+    "reclamo": 2,
+    "3g": 1,
+    "internet": 1,
+    "minutos": 1
+  },
+  "neutral": {
+    "10 años aproximadamente dónde": 2,
+    "brindar un mejor servicio": 2,
+    "enviarnos tus datos": 2,
+    "señal": 2,
+    "bitel": 1,
+    "minutos": 1
+  },
+  "informativo": {
+    "área la red bitel": 2,
+    "indecopi osiptel 30 minutos": 2,
+    "horror con bitel": 2,
+    "escribir bitel whatsapp": 2,
+    "internet": 1
+  },
+  "irrelevante": {
+    "funciona": 1,
+    "genial": 1,
+    "excelente": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "post_id": "reel_1269142188160511",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "negativo": {
+    "ajusto del precio": 2,
+    "precio de la línea": 2,
+    "bitel": 2,
+    "internet": 1,
+    "llamadas": 1
+  },
+  "irrelevante": {
+    "está disponible": 2,
+    "app": 1
+  }
+}

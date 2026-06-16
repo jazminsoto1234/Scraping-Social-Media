@@ -1,0 +1,38 @@
+{
+  "post_id": "pfbid02aq61JVCCBbeARSPyeno949fHT9GFRrboVUz5cXGrdyV9BP9oKL6zpSeFqXLWJ8o6l",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "positivo": {
+    "servicio desde la app": 2,
+    "bitel": 1
+  },
+  "negativo": {
+    "ajusto del precio": 2,
+    "precio de la línea": 2,
+    "operador bitel que estafado": 2,
+    "internet las 24 horas": 2,
+    "servicio sirve": 2,
+    "servicio sirve y hoy": 2,
+    "hoy con el corte": 2,
+    "wifi d otro operador": 2,
+    "pago por internet": 2
+  },
+  "neutral": {
+    "volte tanto en prepago": 2,
+    "puedas enviarnos tus datos": 2,
+    "ingresa a la app": 2,
+    "app y dale clic": 2,
+    "atención bitel": 2,
+    "pagar tu servicio": 2,
+    "red": 1,
+    "5g": 1
+  },
+  "informativo": {
+    "bitel gift card": 2,
+    "bitel atención": 2
+  },
+  "irrelevante": {
+    "app": 1
+  }
+}

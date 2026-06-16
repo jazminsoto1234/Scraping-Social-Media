@@ -1,0 +1,40 @@
+{
+  "post_id": "reel_1486055159091328",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "positivo": {
+    "disfrutes de tu señal": 2
+  },
+  "negativo": {
+    "subieron el costo": 4,
+    "señal de mi celular": 2,
+    "costo del plan": 2,
+    "planes que nunca pediste": 2,
+    "logo de entel": 2,
+    "entel en el teléfono": 2,
+    "reclamo": 2,
+    "servicio": 1,
+    "cobertura": 1,
+    "red": 1,
+    "movistar": 1,
+    "recomiendo": 1
+  },
+  "neutral": {
+    "entel": 4,
+    "plan power s 59": 3,
+    "pe starlink": 3,
+    "señal": 3,
+    "desde el plan power": 2,
+    "cobertura móvil terrestre desde": 2,
+    "conexión llega": 2,
+    "requiere volte": 2,
+    "roaming activos": 2
+  },
+  "informativo": {
+    "servicio técnico": 2,
+    "entel": 1,
+    "cómo": 1,
+    "dónde": 1
+  }
+}

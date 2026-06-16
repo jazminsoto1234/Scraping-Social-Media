@@ -1,0 +1,42 @@
+{
+  "video_id": "7638647953732668690",
+  "operador": "claro",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-11",
+  "positivo": {
+    "claro": 1,
+    "plan": 1,
+    "servicio": 1
+  },
+  "negativo": {
+    "pasa nada con claro": 2,
+    "señal es pésima": 2,
+    "imagino la señal": 2,
+    "claro será peor": 2,
+    "ma cambie a entel": 2,
+    "internet estaba lento": 2,
+    "cambio de plan": 2,
+    "plan que nunca solicite": 2,
+    "cambiar de plan puedo": 2,
+    "full si tienes claro": 2,
+    "tienes claro en casa": 2,
+    "claro la señal": 2,
+    "claro hogar desde": 2,
+    "móvil": 1,
+    "movistar": 1,
+    "servicio": 1
+  },
+  "neutral": {
+    "plan": 2,
+    "claro": 1,
+    "servicio": 1
+  },
+  "informativo": {
+    "sabes cómo ser parte": 2,
+    "dónde": 1,
+    "claro": 1
+  },
+  "irrelevante": {
+    "genial": 1
+  }
+}

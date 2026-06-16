@@ -1,0 +1,32 @@
+{
+  "post_id": "reel_1510315640708500",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-08",
+  "positivo": {
+    "entel": 1
+  },
+  "negativo": {
+    "señal partir desde": 3,
+    "pésimo servicio": 2,
+    "entel": 2
+  },
+  "neutral": {
+    "entel": 4,
+    "actualizar tu app": 2,
+    "tus datos": 2,
+    "rápido": 1,
+    "problema": 1
+  },
+  "informativo": {
+    "celular online a entel": 2,
+    "entel y nunca": 2,
+    "llamadas": 1,
+    "señal": 1,
+    "servicio": 1
+  },
+  "irrelevante": {
+    "app": 3,
+    "móvil": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "post_id": "pfbid0UEk5aAmPPtC1MDyFSUs7gKMHbi3S4j58S5HY8Cbx6X4zWAA9U1a8XeELzEiYiz3Bl",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-22",
+  "positivo": {
+    "ti movistar": 2,
+    "hayas mejorado tu señal": 2,
+    "servicio el 5g próximamente": 2,
+    "amplies tu servicio": 2,
+    "cobertura": 1
+  },
+  "negativo": {
+    "internet aqi en arequipa": 2,
+    "ningún servicio": 2
+  },
+  "neutral": {
+    "través de nuestra app": 2,
+    "nuestra app mi movistar": 2,
+    "movistar o mantenerte atento": 2,
+    "servicio al pertenecer": 2,
+    "tus datos": 2
+  },
+  "informativo": {
+    "través de nuestra app": 2,
+    "nuestra app mi movistar": 2,
+    "movistar o mantenerte atento": 2,
+    "cómo": 1
+  }
+}

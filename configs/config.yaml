@@ -1,0 +1,67 @@
+tiktok:
+  profile_url: "https://www.tiktok.com/@{username}"
+  session_file: "sessions/tiktok_storage_state.json"
+  headless: false
+  page_load_wait_ms: 10000      # espera tras click/goto antes de empezar a scrollear (aumentado para conexiones lentas)
+  scroll_timeout_ms: 10000      # espera entre scrolls (aumentado de 1500 para internet lento)
+  scroll_max_timeout_ms: 100000 # techo del backoff progresivo (debe ser >= scroll_timeout_ms)
+  max_scrolls_sin_cambio: 30   # iteraciones sin nuevos batches API antes de parar (aumentado de 6 para extraer más comentarios)
+  max_rounds_sin_progreso: 7
+  viewport:
+    width: 1920
+    height: 1080
+
+facebook:
+  profile_url: "https://www.facebook.com/{username}"
+  scroll_timeout_total_s: 300    # red de seguridad por fase en segundos (no es el cierre normal)
+  session_file: "sessions/facebook_storage_state.json"
+  headless: false
+  scroll_timeout_ms: 300
+  fb_max_vueltas_sin_crecer: 5   # CIERRE PRINCIPAL: vueltas seguidas sin que crezca el acumulado (exclusivo de facebook, NO confundir con tiktok)
+  max_scroll_rounds: 60          # red de seguridad: tope de vueltas por fase
+  viewport:
+    width: 1920
+    height: 1080
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+  locale: "es-US"
+  timezone: "America/Lima"
+
+operators:
+  entel:    "entel_peru"
+  claro:    "claro_peru"
+  movistar: "movistarperu_oficial"
+  bitel:    "bitel_peru"
+
+outputs:
+  tiktok_dir: "outputs/output_tiktok"
+  facebook_dir: "outputs/output_facebook"
+
+preprocessing:
+  min_comment_length: 3
+  spam_patterns:
+    - "^(jaja|jeje|lol|haha|xd)+[!?]*$"
+    - "^(primero|first|1ro|1st)\\b"
+    - "^[.\\s]+$"
+  emoji_only_threshold: 0.8
+
+retrieval:
+  model: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  vector_store: "chromadb"
+  collection_prefix: "comments"
+
+transcription:
+  whisper_model: "base"
+  language: "es"
+  device: "cpu"
+
+gemini:
+  api_key: ""                                      # dejar vacío — se lee desde .env (GEMINI_API_KEY)
+  embed_model: "gemini-embedding-2"
+  chat_model: "gemini-2.0-flash"
+
+operators_facebook:
+  entel:    "https://www.facebook.com/EntelPeru?locale=es_LA"
+  claro:    "https://www.facebook.com/AmericaMovilPeruSAC?locale=es_LA"
+  movistar: "https://www.facebook.com/movistarperu?locale=es_LA"
+  bitel:    "https://www.facebook.com/bitelperu?locale=es_LA"
+

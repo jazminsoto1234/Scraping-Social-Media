@@ -1,0 +1,45 @@
+{
+  "video_id": "7638618678401191186",
+  "operador": "claro",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-11",
+  "positivo": {
+    "playlist con claro música premium": 3,
+    "claro música premium gratis": 3,
+    "full claro y arma": 2,
+    "arma tu playlist con claro": 2,
+    "beneficios al ser full claro": 2
+  },
+  "negativo": {
+    "fullclaro con claro": 3,
+    "cambia a movistar": 2,
+    "señal me llega": 2,
+    "casa y en tu móvil": 2,
+    "claro en el celu": 2,
+    "claro pésima atención": 2,
+    "pésimo": 1,
+    "servicio": 1,
+    "bitel": 1
+  },
+  "neutral": {
+    "algún inconveniente con tu servicio": 2,
+    "increíble oportunidad y conviértete": 2,
+    "ful claro la vida": 2,
+    "full claro llamando": 2,
+    "descubre cómo obtener hasta": 2,
+    "arma tu playlist con claro": 2,
+    "playlist con claro música": 2,
+    "playlist con claro música premium": 2,
+    "claro música premium gratis": 2,
+    "señal": 1,
+    "problema": 1
+  },
+  "informativo": {
+    "tú ya sabes cómo": 2,
+    "sabes cómo convertirte": 2,
+    "genial": 1
+  },
+  "irrelevante": {
+    "anuncio solo porque cae": 2
+  }
+}

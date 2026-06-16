@@ -1,0 +1,22 @@
+{
+  "video_id": "7634726902967602440",
+  "operador": "movistar",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-01",
+  "positivo": {
+    "grande movistar": 2
+  },
+  "negativo": {
+    "movistar qué clase": 2,
+    "personal de movistar": 2,
+    "contraten planes": 2,
+    "internet": 1
+  },
+  "neutral": {
+    "movistar": 1
+  },
+  "informativo": {
+    "dan servicio igualitario": 3,
+    "movistar": 1
+  }
+}

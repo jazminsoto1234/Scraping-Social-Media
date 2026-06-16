@@ -1,0 +1,24 @@
+{
+  "video_id": "7644584032612666631",
+  "operador": "entel",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-27",
+  "negativo": {
+    "problemas con mi plan": 2,
+    "plan el precio normal": 2,
+    "puedo recibir llamadas": 2,
+    "entel": 1,
+    "red": 1
+  },
+  "neutral": {
+    "ofrezcan un buen plan": 2,
+    "señal power y prepárate": 2,
+    "entel": 2,
+    "movistar": 1
+  },
+  "informativo": {
+    "ofrecieron un plan": 2,
+    "plan y al final": 2,
+    "entel lover": 2
+  }
+}

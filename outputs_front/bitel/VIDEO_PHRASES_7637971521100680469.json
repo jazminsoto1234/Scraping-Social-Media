@@ -1,0 +1,20 @@
+{
+  "video_id": "7637971521100680469",
+  "operador": "bitel",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-09",
+  "positivo": {
+    "internet": 1
+  },
+  "negativo": {
+    "señal": 3,
+    "internet v ase": 2,
+    "bitel": 2
+  },
+  "neutral": {
+    "inconvenientes con tu señal": 2,
+    "disfrutar de una buena conexión": 2,
+    "problema persiste": 2,
+    "revisar tu cobertura": 2
+  }
+}

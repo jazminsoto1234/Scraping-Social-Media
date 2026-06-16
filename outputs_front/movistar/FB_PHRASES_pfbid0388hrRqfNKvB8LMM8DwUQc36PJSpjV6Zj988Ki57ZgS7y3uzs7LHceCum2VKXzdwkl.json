@@ -1,0 +1,48 @@
+{
+  "post_id": "pfbid0388hrRqfNKvB8LMM8DwUQc36PJSpjV6Zj988Ki57ZgS7y3uzs7LHceCum2VKXzdwkl",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-22",
+  "positivo": {
+    "planes": 1,
+    "cobertura": 1
+  },
+  "negativo": {
+    "paran subiendo tu plan": 2,
+    "zona el internet": 2,
+    "esposa es movistar": 2,
+    "movistar mejoren su servicio": 2,
+    "días sin internet": 2,
+    "internet y aún": 2,
+    "corta la llamada": 2,
+    "tines internet cable": 2,
+    "internet ai": 2,
+    "cobertura": 2,
+    "problema": 1,
+    "móvil": 1,
+    "red": 1,
+    "5g": 1,
+    "señal": 1
+  },
+  "neutral": {
+    "movistar": 3,
+    "arriba no señal": 2,
+    "señal solo en pueblo": 2,
+    "mejor cobertura": 2,
+    "tecnología 4g": 2,
+    "plan": 1,
+    "red": 1,
+    "5g": 1
+  },
+  "informativo": {
+    "red 5g": 2,
+    "cómo": 1,
+    "funciona": 1,
+    "internet": 1,
+    "movistar": 1,
+    "datos": 1
+  },
+  "irrelevante": {
+    "funciona": 1
+  }
+}

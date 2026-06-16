@@ -1,0 +1,22 @@
+{
+  "post_id": "reel_958496533740257",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "positivo": {
+    "madres gracias bitel": 3
+  },
+  "negativo": {
+    "llena la señal": 2,
+    "bitel": 1,
+    "pésimo": 1,
+    "servicio": 1,
+    "lento": 1,
+    "cobertura": 1
+  },
+  "neutral": {
+    "señal fuera potente": 3,
+    "favor envíanos tus datos": 2,
+    "servicio": 1
+  }
+}

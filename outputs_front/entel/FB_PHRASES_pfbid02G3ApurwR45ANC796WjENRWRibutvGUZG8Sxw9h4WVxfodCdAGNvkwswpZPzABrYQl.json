@@ -1,0 +1,15 @@
+{
+  "post_id": "pfbid02G3ApurwR45ANC796WjENRWRibutvGUZG8Sxw9h4WVxfodCdAGNvkwswpZPzABrYQl",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-08",
+  "negativo": {
+    "movistar": 1,
+    "señal": 1
+  },
+  "informativo": {
+    "celular online a entel": 2,
+    "entel y nunca": 2,
+    "llamadas": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "post_id": "pfbid0aULa3ChBDyeBedihmLqMehL7F8JEduCGXnA2opyzDN5arjykHtFyEwJMqUyrKFZol",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-08",
+  "positivo": {
+    "movistar": 2
+  },
+  "negativo": {
+    "internet": 1
+  },
+  "neutral": {
+    "presentas con tu servicio": 3,
+    "adjuntando tus datos y buscaremos": 2,
+    "datos y buscaremos la solución": 2,
+    "equipo perfecto para ti": 2,
+    "porta a movistar": 2,
+    "movistar me escribes": 2,
+    "planes": 1,
+    "internet": 1
+  },
+  "informativo": {
+    "ahora su app": 2,
+    "conexión va": 2
+  }
+}

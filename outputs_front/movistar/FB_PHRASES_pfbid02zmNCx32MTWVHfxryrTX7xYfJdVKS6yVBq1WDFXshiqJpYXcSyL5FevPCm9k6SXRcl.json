@@ -1,0 +1,25 @@
+{
+  "post_id": "pfbid02zmNCx32MTWVHfxryrTX7xYfJdVKS6yVBq1WDFXshiqJpYXcSyL5FevPCm9k6SXRcl",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-29",
+  "positivo": {
+    "déjanos tus datos": 3,
+    "equipazo movistar": 2,
+    "precio": 1,
+    "increíble": 1,
+    "planes": 1
+  },
+  "neutral": {
+    "movistar": 3,
+    "estás interesado en esta excelente": 2,
+    "interesado en esta excelente promoción": 2,
+    "envíanos tus datos a través": 2,
+    "datos a través de nuestra": 2,
+    "tus datos personales": 2,
+    "precio": 2
+  },
+  "informativo": {
+    "disponible": 1
+  }
+}

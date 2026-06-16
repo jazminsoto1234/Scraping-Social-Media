@@ -1,0 +1,67 @@
+{
+  "post_id": "pfbid02Ksdb7vyRytaQwDu3hc1ofDJQpt39WAS6etTjvv21sKYYFrBasvRHoJCrgFyGJ1Xml",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "positivo": {
+    "bitel": 1
+  },
+  "negativo": {
+    "cambias de plan": 3,
+    "igual mi primer reclamo": 2,
+    "primer reclamo que hice": 2,
+    "bitel desde el día": 2,
+    "pagar el plan": 2,
+    "cambien a bitel": 2,
+    "cambien a bitel peor": 2,
+    "dar solución al problema": 2,
+    "problema que no recibe": 2,
+    "recibe ni llamadas": 2,
+    "internet hogar": 2,
+    "días el servicio": 2,
+    "10 días sin internet": 2,
+    "internet y al reclamar": 2,
+    "ellos el servicio": 2,
+    "verdad bitel no está": 2,
+    "tenemos señal como antes": 2,
+    "pésima su señal": 2,
+    "plan ya te cobran": 2,
+    "cambie a bitel": 2,
+    "señal ingresa hasta": 2,
+    "cobertura pésima señal": 2,
+    "número bitel para revisar": 2,
+    "piden datos privados": 2,
+    "llamadas ni mensajes": 2,
+    "servicio después": 2,
+    "poco la señal": 2,
+    "funciona whatsapp": 2,
+    "pésimo servicio": 2,
+    "estafa": 1,
+    "recomiendo": 1,
+    "viettel": 1,
+    "decepción": 1,
+    "red": 1,
+    "dónde": 1
+  },
+  "neutral": {
+    "servicio": 4,
+    "nombre de la red": 2,
+    "red y tendrás": 2,
+    "valida nuevamente la señal": 2,
+    "bitel aventuras durante": 2,
+    "enviarnos tus datos": 2,
+    "cómo": 1,
+    "problema": 1,
+    "móvil": 1
+  },
+  "informativo": {
+    "bitel": 3,
+    "tal es la señal": 2,
+    "señal para cambiarme": 2,
+    "señal está muy lenta": 2,
+    "costo": 1
+  },
+  "irrelevante": {
+    "bueno": 1
+  }
+}

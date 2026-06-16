@@ -1,0 +1,29 @@
+{
+  "post_id": "reel_1682466739755132",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "negativo": {
+    "internet a smp": 2,
+    "promedio de 25 llamadas": 2,
+    "25 llamadas al día": 2,
+    "llega el internet": 2,
+    "internet busquen soluciones": 2,
+    "recibir llamadas": 2,
+    "señal": 1
+  },
+  "neutral": {
+    "movistar trabajamos constantemente": 2,
+    "tus datos": 2,
+    "servicio": 1
+  },
+  "informativo": {
+    "movistar hogar": 2,
+    "señal": 1,
+    "internet": 1,
+    "cuánto": 1
+  },
+  "irrelevante": {
+    "increíble": 1
+  }
+}

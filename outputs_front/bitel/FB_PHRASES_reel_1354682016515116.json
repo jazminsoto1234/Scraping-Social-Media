@@ -1,0 +1,39 @@
+{
+  "post_id": "reel_1354682016515116",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-29",
+  "negativo": {
+    "señal esta fallando mucho": 2,
+    "ayer con mi servicio": 2,
+    "problema masivo": 2,
+    "internet hogar para inestable": 2,
+    "internet no te devuelven": 2,
+    "cobertura esta fallando hace": 2,
+    "línea fija de bitel": 2,
+    "servicio de internet hogar": 2,
+    "cambiarme a bitel": 2,
+    "días sin señal": 2,
+    "bitel desde": 2,
+    "lento": 1,
+    "pésimo": 1,
+    "recomiendo": 1,
+    "app": 1
+  },
+  "neutral": {
+    "inconvenientes con el servicio": 4,
+    "servicio y la demora": 4,
+    "problema persiste o necesitas": 2,
+    "presentando con el servicio": 2,
+    "servicio detalle": 2,
+    "número de servicio": 2,
+    "señal": 2,
+    "internet": 1,
+    "llamadas": 1,
+    "datos": 1,
+    "app": 1
+  },
+  "informativo": {
+    "precio": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "post_id": "reel_997076296337384",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-22",
+  "negativo": {
+    "bitel": 5,
+    "internet luego la señal": 2,
+    "señal es pésima hasta": 2,
+    "señal para llamadas": 2
+  },
+  "neutral": {
+    "bitel": 1,
+    "sms": 1
+  },
+  "informativo": {
+    "bitel": 1,
+    "sms": 1
+  },
+  "irrelevante": {
+    "app": 1,
+    "bueno": 1
+  }
+}

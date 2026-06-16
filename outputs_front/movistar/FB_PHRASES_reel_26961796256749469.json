@@ -1,0 +1,40 @@
+{
+  "post_id": "reel_26961796256749469",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-29",
+  "negativo": {
+    "internet y dicen": 3,
+    "ha caído la señal": 2,
+    "internet hace 3 días": 2,
+    "ofrecer sus planes": 2,
+    "baja a mi servicio": 2,
+    "servicio por incumplimiento": 2,
+    "instalación de servicio": 2,
+    "servicio de su parte": 2,
+    "movistar cuando recargo": 2,
+    "entiendo cómo": 2,
+    "esperar en llamada": 2,
+    "llamada y luego": 2,
+    "increíble aqui": 2,
+    "red": 1,
+    "minutos": 1
+  },
+  "neutral": {
+    "movistar": 3,
+    "recomiendan el internet": 2,
+    "tus datos personales": 2,
+    "servicio": 1,
+    "planes": 1
+  },
+  "informativo": {
+    "tienen plan en movistar": 2,
+    "señal": 1,
+    "wifi": 1,
+    "cómo": 1
+  },
+  "irrelevante": {
+    "app no funciona": 2,
+    "funciona y no responden": 2
+  }
+}

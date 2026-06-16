@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Sesiones (contienen cookies privadas - NUNCA commitear)
+sessions/
+*_storage_state.json
+
+# Configuracion local (nunca commitear keys)
+.env
+.env.example
+config.py
+
+# Outputs del pipeline (datos crudos — no necesarios para el dashboard)
+outputs/
+datasets/
+*.pkl
+
+# outputs_front/ SÍ se commitea — JSONs agregados que consume el dashboard
+
+# Logs
+*.log
+
+# Archivos de debug sueltos en raíz
+video_*.json
+
+# Scripts que no usa el dashboard
+diag_fb.py
+api.py
+
+# Caché de grafos
+graphify-out/
+
+# Documentación interna
+claude/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

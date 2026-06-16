@@ -1,0 +1,30 @@
+{
+  "post_id": "reel_2396495954187926",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "negativo": {
+    "equipo pesimo servicio": 2,
+    "entel perú cuánto tiempo": 2,
+    "suficiente cuánto tiempo": 2,
+    "pésimo": 1,
+    "movistar": 1,
+    "señal": 1,
+    "recomiendo": 1,
+    "planes": 1
+  },
+  "neutral": {
+    "entel": 8
+  },
+  "informativo": {
+    "entra las llamadas": 2,
+    "datos móviles": 2,
+    "servicio técnico": 2,
+    "entel": 2,
+    "cómo": 1,
+    "señal": 1
+  },
+  "irrelevante": {
+    "excelente": 1
+  }
+}

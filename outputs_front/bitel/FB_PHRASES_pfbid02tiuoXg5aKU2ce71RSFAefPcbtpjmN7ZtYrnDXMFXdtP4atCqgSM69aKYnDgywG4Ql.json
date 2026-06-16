@@ -1,0 +1,30 @@
+{
+  "post_id": "pfbid02tiuoXg5aKU2ce71RSFAefPcbtpjmN7ZtYrnDXMFXdtP4atCqgSM69aKYnDgywG4Ql",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "positivo": {
+    "servicio desde la app": 2,
+    "bitel": 1
+  },
+  "negativo": {
+    "ajusto del precio": 2,
+    "precio de la línea": 2,
+    "osiptel bitel estan migrando": 2,
+    "bitel estan migrando sin autorización": 2,
+    "internet": 1
+  },
+  "neutral": {
+    "ingresa a la app": 2,
+    "app y dale clic": 2,
+    "pagar tu servicio": 2,
+    "servicio detalle": 2,
+    "datos": 1
+  },
+  "informativo": {
+    "bitel gift card": 2,
+    "tio bitel quiero hacer": 2,
+    "gran estafa la fibra": 2,
+    "servicio": 1
+  }
+}

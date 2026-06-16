@@ -1,0 +1,60 @@
+{
+  "post_id": "pfbid02XPtUW4CNgEmCWzUo33XWKakQryYgzGKN15GCh71BS3M8pqgL3Dky39Ej1AoQnxC9l",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "positivo": {
+    "planes de fíbra óptica": 2,
+    "internet": 2,
+    "bitel": 2,
+    "servicio": 1,
+    "cobertura": 1
+  },
+  "negativo": {
+    "oculten su conexión": 3,
+    "mejorará la cobertura vuelve": 2,
+    "cobertura vuelve a caer": 2,
+    "código de reclamo": 2,
+    "señal es pésima": 2,
+    "internet desde": 2,
+    "ocultar mi conexión rebela": 2,
+    "app mi bitel desde": 2,
+    "bitel desde tu tienda": 2,
+    "pague mi internet": 2,
+    "internet me llego": 2,
+    "pésimo": 1,
+    "servicio": 1
+  },
+  "neutral": {
+    "nos envíes los siguientes datos": 3,
+    "dni ce número de servicio": 3,
+    "ce número de servicio detalle": 3,
+    "servicio detalle de tu caso": 3,
+    "app mi bitel": 3,
+    "costo mensual": 3,
+    "pago mi recibo bitel": 2,
+    "juega en bitel aventuras": 2,
+    "problema persiste o necesitas": 2,
+    "presentando con el servicio": 2,
+    "planes nuevo bitel fibra": 2,
+    "planes de internet fijo": 2,
+    "internet bitel hogar desde": 2,
+    "info de cobertura": 2,
+    "través de la app": 2,
+    "línea fija o móvil": 2,
+    "envíanos tus datos": 2,
+    "brindarte el servicio": 2,
+    "mejor internet": 2,
+    "brindar un servicio": 2,
+    "señal": 1
+  },
+  "informativo": {
+    "servicio se encuentra": 3,
+    "tuve internet 4 días": 2,
+    "baja del servicio": 2,
+    "servicio y me indican": 2,
+    "planes postpago": 2,
+    "reclamo": 2,
+    "cobertura": 1
+  }
+}

@@ -1,0 +1,628 @@
+{
+  "operador": "bitel",
+  "total_comentarios": 718,
+  "positivo": {
+    "Promociones y atención al cliente": {
+      "frecuencia": 8,
+      "representativas": [
+        "su internet es lo mejor gracias 🇵🇪🇵🇪🇵🇪",
+        "¡Hola, Glen! 😊 Lamentamos la experiencia. Comentarte que también puedes realizar operaciones de tu servicio desde la app Mi Bitel. 🙌💛",
+        "¡Nos alegra saber eso! 😊 Puedes solicitar tu chip por nuestra web: https://bitel.com.pe/, a través de nuestro WhatsApp: https://wa.me/51928111888 o acercándote a cualquiera de nuestros Centros de Atención ✨"
+      ]
+    },
+    "Agradecimiento y promoción de servicio": {
+      "frecuencia": 6,
+      "representativas": [
+        "Buena señal ... Muy recomendado",
+        "Bitel .. lo mejor.. sigue para adelante",
+        "Felíz día de las madres gracias bitel por este video"
+      ]
+    },
+    "Novedades y mejoras en servicio": {
+      "frecuencia": 4,
+      "representativas": [
+        "excelente,  una gran innovación en autoservicio",
+        "No dejes de estar al tanto de nuestras redes, que pronto tendremos muchas novedades.",
+        "¡Gracias por tu sugerencia! 💛 Seguimos de cerca las opiniones de nuestros usuarios, no dejes de estar al tanto de nuestras redes ante cualquier anuncio o novedad."
+      ]
+    }
+  },
+  "negativo": {
+    "Problemas de instalación y señal": {
+      "frecuencia": 25,
+      "representativas": [
+        "Esta fallando la conexión a internet",
+        "bitel, mi internet no llega a mi cerro",
+        "[Sticker] jefe no funciona el internet"
+      ]
+    },
+    "Problemas de cobro y servicio": {
+      "frecuencia": 13,
+      "representativas": [
+        "16 MINUTOS Y NO TE RESPONDEN POR EL WHATSAPP",
+        "ARREGLEN LA COBERTURA PÉSIMA SEÑAL NI MÁS COJ BITEL",
+        "LAMENTABLEMENTE TODOS LOS PLANES REBAJADOS YA NO TENDRÁ CASHBACK!!!!"
+      ]
+    },
+    "Problemas de recargas y reembolsos": {
+      "frecuencia": 11,
+      "representativas": [
+        "Paso un mes y no resuelven el problema a un reclamo presentado",
+        "Por favor, bajen su monto de recarga mínimo nuevamente a 30 so. :/",
+        "Ayer recargue 5 soles y se  consumieron todo mi saldo con una compra automática sin mi autorización!\nY ahora ya no tengo saldo sin siquiera acabar mi bono por recargar!\nYa es más de una vez que sucede,\nPrácticamente me roban mis recargas!"
+      ]
+    },
+    "Demora e inconvenientes en servicio": {
+      "frecuencia": 11,
+      "representativas": [
+        "Lamentamos mucho los inconvenientes con la entrega de tu premio, Erick 😔. Queremos solucionarlo de inmediato, por ello, te hemos enviado un mensaje privado para solicitarte unos datos adicionales. ¡Agradeceríamos mucho que revises tu Inbox! ✨",
+        "¡Hola Rixard! 👋 Lamentamos mucho los inconvenientes que estás presentando con el servicio 😔. Sabemos lo importante que es estar conectado.\n\nQueremos ayudarte a solucionarlo cuanto antes 💪 Por favor, envíanos por mensaje interno tu nombre completo, DNI y número Bitel para revisar tu caso a detalle.",
+        "¡Hola! Te pedimos sinceras disculpas por la mala experiencia en Zárate 😔 Esa no es la atención que queremos darte. Vamos a verificar internamente lo sucedido para corregirlo de inmediato. Por favor, escríbenos a nuestro WhatsApp aquí 👉 https://wa.me/51931123123 para brindarte una solución lo más pronto. 📲✨"
+      ]
+    },
+    "Problemas migración y app Bitel": {
+      "frecuencia": 9,
+      "representativas": [
+        "en la app casi no se ve los beneficios de cada plan,arreglen eso",
+        "Señores de Bitel desde la segunda quincena de abril no me hacen la devolución del pago x app.",
+        "No pasa con bitel mas lo k engañan muy aparte de eso les hablo del plan mi plan no esta habilitado para migración ya k no aparece en la app mi bitel arreglen su app."
+      ]
+    },
+    "Señal inestable o mala": {
+      "frecuencia": 9,
+      "representativas": [
+        "La señal está pésima",
+        "La señal es muy mala",
+        "pésima señal de bitel"
+      ]
+    },
+    "Problemas de pagos y atención": {
+      "frecuencia": 8,
+      "representativas": [
+        "Soy cliente Bitel desde el 2019 y nisiquiera un teléfono a crédito puedo sacar",
+        "Buenas noches no se puede hacer pagos. Quiero pagar mi línea telefónica pero no sé puede",
+        "Con fe este año le regalo a mi madre el celular nuevo que tanto quiere, gracias Bitel 💪🏼✨"
+      ]
+    },
+    "Migración a prepago y atención\u0000": {
+      "frecuencia": 8,
+      "representativas": [
+        "Hola, me estoy comunicando a todos su canales de atención para realizar una migración a prepago y por ningún lado me responden solo me mandan su menú y a pesar de que marco las opciones no me derivan con un asesor.",
+        "Ya me van a dar solución o no, fui a su oficina, realice mis llamadas al 123 , y no me quieren resolver el error que cometieron al migrar mi línea postpago a prepago, 39.90 se me va ahí , no saben dar solución , su atención al cliente es malísimo",
+        "Lamentamos los inconvenientes presentados con tu línea y el tiempo de espera, Lúan. Sentimos que la respuesta a tu reclamo no haya cumplido con tus expectativas.\n\nPara analizar a fondo la migración realizada el 18 de abril y el pago de tu plan de 39.90, te pedimos por favor contactarnos marcando al 123. De esta manera, podremos validar internamente los registros y darte una solución a la brevedad. 📞✨\n\nRecuerda que tus datos son privados; te recomendamos no compartirlos en comentarios públicos. ¡Queremos ayudarte a solucionar esto pronto!"
+      ]
+    },
+    "Problemas de señal y servicio": {
+      "frecuencia": 8,
+      "representativas": [
+        "Su WhatsApp no sirve, nadie responde.",
+        "No funciona whatsapp ni nada. Ya le puse recarga y nada",
+        "Que 🐚 pasa con la red, está pésimo no funciona WhatsApp ni Facebook  😡🤬"
+      ]
+    },
+    "Problemas con premios y recompensas": {
+      "frecuencia": 8,
+      "representativas": [
+        "ese equipo ya se va ala baja",
+        "No llega los premios de la puerta misteriosa crjo 😡🤬 solucionen pronto",
+        "Lúan Rous te cobra por adelantado y si cambias de plan ya te cobran sin terminar Tu paquete 📦"
+      ]
+    },
+    "Queja por mala calidad de internet": {
+      "frecuencia": 8,
+      "representativas": [
+        "internet de mrd",
+        "Su Internet es una m",
+        "Internet pésimo enserió"
+      ]
+    },
+    "Problemas de señal y servicio (2)": {
+      "frecuencia": 7,
+      "representativas": [
+        "Bitel es de lo peor,roban el saldo y jamás lo devuelven.\nA cambiar de operador",
+        "Me cambie a Bitel porque su señal ingresa hasta el zotano, pero poco a poco la señal fue debilitandose. Me cambie a otro operador.",
+        "Arreglen la señal en ventanilla \nLlevo mas de 1 año con este servicio en postpago y la verdad esta peor \nIntentare cambiarme en otro operador"
+      ]
+    },
+    "Ajuste de precio por bajo consumo": {
+      "frecuencia": 7,
+      "representativas": [
+        "Tanta publicidad y cuando uno llama te dicen que no hay cobertura xq todo los conectores están saturados de clientes",
+        "Pésimo su internet hogar  para inestable y para el colmo te generan un ticket y nadie viene . Y encima tienes pago por adelantado y lo peor esos dias sin internet no te devuelven y las que atienden en sus puntos autorizados de malas .muy mal no les recomiendo.",
+        "Bitel porq cuando uno llama para hacer un ajusto del precio de la línea que se paga ya que solo consumo poco  Internet, contestan al comienzo luego cuando te derivan te dejan esperando más de 1 hora y luego te cuelgan vuelves a llamar y ya te tienen fichada y cuando te derivan de frente de cuelgan."
+      ]
+    },
+    "Migración no autorizada Bitel": {
+      "frecuencia": 7,
+      "representativas": [
+        "Osiptel ;Bitel está migrando sin autorización;tomar cartas en el asunto.",
+        "#Osiptel ;Bitel está migrando sin autorización;tomar cartas en el asunto.",
+        "#Osiptel bitel estan migrando sin autorización del cliente.. tiene q sancionar"
+      ]
+    },
+    "Problemas con recargas y planes": {
+      "frecuencia": 6,
+      "representativas": [
+        "A mí no me está durando nada las recargas de 6G me está durando dos días nomás",
+        "Bitel creo que active para solo tener 5 soles de saldo como desactivo eso me recargo 10 soles y no funciona",
+        "Pues si no los comparto no me solucionan , ya estoy harta, media hora tengo que esperar para que me digan que no"
+      ]
+    },
+    "Quejas sobre señal": {
+      "frecuencia": 5,
+      "representativas": [
+        "Si es un asco",
+        "Hasta la verga su señal",
+        "Esta fayando la línea k pesimo"
+      ]
+    },
+    "Señal deficiente y pago Yape": {
+      "frecuencia": 5,
+      "representativas": [
+        "Arregla tu señal en huayucachi porfavor está que va y viene.",
+        "Bitel arregla tu señal en huayucachi mrd no hay señal para nadaaaaa.",
+        "así como está FC Cajamarca en lo bajo de la tabla así es la señal de bitel recontra baja"
+      ]
+    },
+    "Problemas con actualizaciones y ofertas": {
+      "frecuencia": 5,
+      "representativas": [
+        "Bitel es una estafa , en los paquete TI dice  doble de gigas y nada",
+        "Bitel actualiza tu sistema para poder comprar diamantes en pagostore. Garena acaba de actualizar los precios y cuando intento comprar dice monto inválido.",
+        "Hola, Ann! 😊 Para empezar tu viaje en Bitel Aventuras, primero descarga la app Mi Bitel desde tu tienda de aplicaciones (Play Store o App Store). Una vez dentro, solo dale clic al ícono del cuy que verás en la parte inferior ✨. ¡Mucha suerte en el juego! 🐹🚀"
+      ]
+    },
+    "Problemas con entrega de eSIM": {
+      "frecuencia": 5,
+      "representativas": [
+        "Sres Bitel, cuando le van a dar solución  al problema que no recibe ni llamadas ni mensajes de texto caso #SA553126042434204 y que sigue en proceso más de una semana .",
+        "¡PAGUÉ MI eSIM Y NO ME LLEGA NADA! Bitel ya me descontaron S/30 por Yape (Operación 06011653) pero su sistema dice que \"no tengo pedidos\". He llamado al 0800 79 123 y hasta fui a una sede física donde solo me dicen que \"espere 24 horas\" cuando la activación de una eSIM debe ser AL INSTANTE.¡Ya tienen mi dinero y no me dan el servicio! Mi código de cliente es 25105260061373. Quiero que un humano valide mi pago y me envíe el código QR a mi correo AHORA MISMO, ¡y si no pueden hacerlo, que me devuelvan mi dinero en este instante! No me sigan paseando. Osiptel  Indecopi",
+        "¡PAGUÉ MI eSIM Y NO ME LLEGA NADA! Bitel  ya me descontaron S/30 por Yape (Operación 06011653) pero su sistema dice que \"no tengo pedidos\". He llamado al 0800 79 123 y hasta fui a una sede física donde solo me dicen que \"espere 24 horas\" cuando la activación de una eSIM debe ser AL INSTANTE.¡Ya tienen mi dinero y no me dan el servicio! Mi código de cliente es 25105260061373. Quiero que un humano valide mi pago y me envíe el código QR a mi correo AHORA MISMO, ¡y si no pueden hacerlo, que me devuelvan mi dinero en este instante! No me sigan paseando. Osiptel  Indecopi"
+      ]
+    },
+    "Problemas con megas y recargas": {
+      "frecuencia": 5,
+      "representativas": [
+        "No bitel, te ofio >:(",
+        "Porque reducen mis bitel puntos",
+        "soy bitel pospago pot que no puedo tener liga 1 max"
+      ]
+    }
+  },
+  "neutral": {
+    "Problemas de señal y velocidad": {
+      "frecuencia": 15,
+      "representativas": [
+        "arreglen su señal",
+        "Lamentamos los inconvenientes con la señal. En caso continúes con este problema, por favor escríbenos por WhatsApp 👉 https://wa.me/51931123123 para poder apoyarte. ¡Estamos para servirte! ✨",
+        "Lamentamos mucho los inconvenientes con tu señal. Queremos ayudarte a disfrutar de una buena conexión; por favor, si el problema persiste, escríbenos a nuestro WhatsApp de atención especializada para revisar tu cobertura de inmediato 👉 https://wa.me/51931123123 ✨"
+      ]
+    },
+    "Solicitud de datos personales": {
+      "frecuencia": 14,
+      "representativas": [
+        "Lamentamos el inconveniente, Art. Te agradeceríamos que puedas enviarnos tu nombre completo, documento de identidad, número por interno o WhatsApp: https://wa.me/51931123123 para brindarte el apoyo necesario. 🙌",
+        "Lamentamos los inconvenientes, Tito. Te pedimos que puedas enviarnos tu nombre completo, documento de identidad, número y mayor información sobre tu caso por interno o WhatsApp: https://wa.me/51931123123 para brindarte el apoyo necesario. 🙌",
+        "Lamentamos los inconvenientes, Lizi. Te pedimos que puedas enviarnos tu nombre completo, documento de identidad, número y mayor información sobre tu caso por interno o WhatsApp: https://wa.me/51931123123 para brindarte el apoyo necesario. 🙌"
+      ]
+    },
+    "Problemas de señal y solución": {
+      "frecuencia": 11,
+      "representativas": [
+        "Lamentamos los inconvenientes con la señal. Te sugerimos reiniciar el equipo y, de persistir el inconveniente, probar el chip en otro dispositivo.\nSi necesitas apoyo adicional, escríbenos por WhatsApp 👉 https://wa.me/51931123123",
+        "¡Hola! 😊 Existen dos formas en las que pudiste solicitar tu línea: eSIM (digital) o SIM físico. Si es una eSIM, el servicio se activa de forma automática; pero si solicitaste un chip físico, se genera una orden de entrega. 🚚\nPara revisar tu caso, por favor escríbenos a nuestro WhatsApp 👉 https://wa.me/51931123123 para realizar las validaciones de inmediato. ✨",
+        "Lamentamos los inconvenientes con tu servicio, Claudia. 😔 Para asegurar el correcto funcionamiento, te sugerimos realizar estas pruebas básicas:\n\n1️⃣ Reinicia tu equipo y valida nuevamente la señal.\n2️⃣ Si el problema persiste, prueba colocar tu chip en otro dispositivo.\n\nSi necesitas más ayuda, envíanos tus datos por WhatsApp: 👉 https://wa.me/51931123123 o por Inbox: m.me/Bitelperu. ¡Estamos atentos para apoyarte! 🙌✨"
+      ]
+    },
+    "Migración a postpago": {
+      "frecuencia": 9,
+      "representativas": [
+        "quiero un chip",
+        "Quisiera migrar",
+        "Quiero mi postpago"
+      ]
+    },
+    "Cambio de cashback a Gift Card": {
+      "frecuencia": 8,
+      "representativas": [
+        "Yo me uní a bitel por bipay y su reembolso de algo. Como no quiero activar gifcard, les sugiero que mejoren sus planes para que muchos se queden en bitel.",
+        "Buenas cuando pago mi recibo bitel ya no llega el Cashback a mi billetera si no al gifs card eso es normal o como hago para que lleve a la billetera de nuevo gracias",
+        "Hola, JhoRe 😊. Comentarte que ahora el procedimiento ha cambiado: lo adquirido por Cashback se acredita automáticamente en tu Gift Card ✨. Podrás usar ese saldo para pagar tus servicios cuando gustes. Ante cualquier consulta, nuestro canal de BiPay está listo para apoyarte 👉 https://wa.me/51930111112. 💪"
+      ]
+    },
+    "Consultas generales y participación": {
+      "frecuencia": 8,
+      "representativas": [
+        "Buenas tardes quisiera un equipo",
+        "[Sticker] día 1 a que me salude bitel",
+        "si me sigue bitel me cambio el nombre"
+      ]
+    },
+    "Consultas sobre promociones y recargas": {
+      "frecuencia": 8,
+      "representativas": [
+        "con cuánto se recargar para tener esta promoción",
+        "Para cuando van a poner premios en Bitel Bet Store",
+        "Hola, Hilber.👋 Bitel siempre trae las mejores promociones💛"
+      ]
+    },
+    "Solicitud de asistencia y disculpas": {
+      "frecuencia": 6,
+      "representativas": [
+        "Sentimos el inconveniente, Juan. Te agradeceríamos que puedas enviarnos tus datos a nuestro canal especializado en Fibra Óptica 👉 https://wa.me/5180079999 para brindarte el apoyo necesario verificando tu servicio. 🙌",
+        "Sentimos el inconveniente, Haru . Te agradeceríamos que puedas enviarnos tus datos a nuestro canal especializado en Fibra Óptica 👉 https://wa.me/5180079999 para brindarte el apoyo necesario verificando tu servicio. 🙌",
+        "Lamentamos mucho los inconvenientes que puedas estar presentando con el servicio, Gisela 😔 Queremos ayudarte a solucionarlo lo antes posible 🙌\n\nPor favor, escríbenos a nuestro canal especializado en Fibra Óptica 📲 https://wa.me/5180079999 enviándonos:\n✅ Nombre completo\n✅ DNI/CE\n✅ Número de servicio\n✅ Detalle de tu caso\n\n¡Estaremos atentos para ayudarte! 💪"
+      ]
+    },
+    "Disculpas y asistencia al cliente": {
+      "frecuencia": 5,
+      "representativas": [
+        "Lamentamos mucho los inconvenientes que puedas estar presentando con el servicio, Abner . Queremos ayudarte a solucionarlo lo antes posible. 🛠️ Por favor, escríbenos a nuestro canal especializado en Fibra Óptica para apoyarte: 📲 WhatsApp Fibra: https://wa.me/5180079999 Para agilizar la atención, agradeceríamos que nos envíes los siguientes datos: ✅ Nombre completo ✅ Documento de identidad (DNI/CE) ✅ Número de servicio ✅ Detalle de tu caso",
+        "Lamentamos mucho los inconvenientes que puedas estar presentando con el servicio, Jhak. Queremos ayudarte a solucionarlo lo antes posible. 🛠️ Por favor, escríbenos a nuestro canal especializado en Fibra Óptica para apoyarte: 📲 WhatsApp Fibra: https://wa.me/5180079999 \n \nPara agilizar la atención, agradeceríamos que nos envíes los siguientes datos: ✅ Nombre completo ✅ Documento de identidad (DNI/CE) ✅ Número de servicio ✅ Detalle de tu caso",
+        "Lamentamos mucho los inconvenientes que puedas estar presentando con el servicio, Jordan. Queremos ayudarte a solucionarlo lo antes posible. 🛠️ Por favor, escríbenos a nuestro canal especializado en Fibra Óptica para apoyarte: 📲 WhatsApp Fibra: https://wa.me/5180079999 \n \nPara agilizar la atención, agradeceríamos que nos envíes los siguientes datos: ✅ Nombre completo ✅ Documento de identidad (DNI/CE) ✅ Número de servicio ✅ Detalle de tu caso"
+      ]
+    },
+    "Disculpas por inconvenientes de servicio": {
+      "frecuencia": 5,
+      "representativas": [
+        "Lamentamos mucho los inconvenientes con el servicio y la demora en la atención, Ángel. En caso de haber generado un ticket, este seguirá su proceso respectivo para brindarte una solución, agradecemos la paciencia.",
+        "Lamentamos mucho los inconvenientes con el servicio y la demora en la atención, MaRgret. En caso de haber generado un ticket, este seguirá su proceso respectivo para brindarte una solución, agradecemos la paciencia.",
+        "Lamentamos los inconvenientes que puedas estar presentando con el internet. Te sugerimos reiniciar el equipo y generar las pruebas necesarias 📲 En caso el problema persista, agradeceríamos pudieras brindarnos tu nombre, documento de identidad y número por medio de nuestro WhatsApp: https://wa.me/51931123123 o inbox: m.me/Bitelperu para apoyarte lo más pronto posible 🙌"
+      ]
+    },
+    "Disculpas por mala experiencia": {
+      "frecuencia": 5,
+      "representativas": [
+        "Lamentamos los inconvenientes que presentes para canjear tus puntos. Agradeceríamos pudieras comentarnos más sobre tu caso por nuestro WhatsApp: https://wa.me/51931123123 para realizar las validaciones respectivas y poder apoyarte lo más pronto posible.",
+        "Lamentamos mucho que su experiencia no haya sido la mejor, Armand Paz  . Nos comprometemos a seguir mejorando para ofrecerle un mejor servicio. Agradeceríamos pudieras brindarnos tu nombre completo, documento de identidad, número , por medio de nuestro Wspp: https://wa.me/51931123123 para revisar tu caso y brindarte ayuda a la brevedad posible. 🙌\n\n 🙌",
+        "Lamentamos mucho que tu experiencia no haya sido la mejor, Lúan . Valoramos sus comentarios y nos comprometemos a seguir mejorando para ofrecerles un mejor servicio. Agradeceríamos pudieras brindarnos tu nombre completo, documento de identidad, número y mayor información sobre tu caso por interno o al WhatsApp: https://wa.me/51931123123 para realizar las validaciones respectivas y poder apoyarte 🙌"
+      ]
+    },
+    "Respuesta y solución al cliente": {
+      "frecuencia": 4,
+      "representativas": [
+        "Descuida, Jampier . Estoy seguro que esto lo podemos solucionar. 💪 Queremos que todo esté bien con tu servicio. Por favor, envíanos tu nombre completo, DNI y número de contacto por mensaje interno o a nuestro WhatsApp oficial: 👉 https://wa.me/51931123123. ¡Estamos listos para realizar las verificaciones necesarias y darte una solución! 💪✨",
+        "Descuida, Carlita  . Estoy seguro que esto lo podemos solucionar. 💪 Queremos que todo esté bien con tu servicio. Por favor, envíanos tu nombre completo, DNI y número de contacto por mensaje interno o a nuestro WhatsApp oficial: 👉 https://wa.me/51931123123. ¡Estamos listos para realizar las verificaciones necesarias y darte una solución! 💪✨",
+        "Descuida, Servando . Estoy seguro que esto lo podemos solucionar. 💪 Queremos que todo esté bien con tu servicio. Por favor, envíanos tu nombre completo, DNI y número de contacto por mensaje interno o a nuestro WhatsApp oficial: 👉 https://wa.me/51931123123. ¡Estamos listos para realizar las verificaciones necesarias y darte una solución! 💪✨"
+      ]
+    },
+    "Solicitud de datos y disculpas": {
+      "frecuencia": 4,
+      "representativas": [
+        "Lamentamos la experiencia, Yajaira 😔 En estos momentos contamos con una alta demanda de llamadas.\n\nTe pedimos intentar comunicarte nuevamente o escribirnos por nuestro WhatsApp 👉 https://wa.me/51931123123 para brindarte la ayuda necesaria 🙌",
+        "Sentimos el inconveniente,  Luis . Te agradeceríamos que puedas enviarnos tu Nombre , DNI y mas información ,  por medio  de nuestro WhatsApp: https://wa.me/51931123123 o inbox: m.me/Bitelperupara para brindarte el apoyo necesario verificando tu servicio. 🙌",
+        "Sentimos el inconveniente,  Jhusto . Te agradeceríamos que puedas enviarnos tu Nombre , DNI y mas información ,  por medio  de nuestro WhatsApp: https://wa.me/51931123123 o inbox: m.me/Bitelperupara para brindarte el apoyo necesario verificando tu servicio. 🙌"
+      ]
+    },
+    "Información de canales de atención": {
+      "frecuencia": 4,
+      "representativas": [
+        "Ya estamos aquí para ayudarte. 💪 Comunícate a cualquiera de los siguientes canales de atención de BIPAY para poder ayudarte: \n- Escribiendo al WhatsApp: http://wa.me/51930111112 \n- Página web: https://bipay.bitel.com.pe/Landing - A través de Call center llamando al 930111112.",
+        "Ya estamos aquí para ayudarte, Luiz. 💪 Comunícate a cualquiera de los siguientes canales de atención de BIPAY para poder ayudarte: \n- Escribiendo al WhatsApp: http://wa.me/51930111112 \n- Página web: https://bipay.bitel.com.pe/Landing - A través de Call center llamando al 930111112.",
+        "Ya estamos aquí para ayudarte, Dyrxe. 💪 Comunícate a cualquiera de los siguientes canales de atención de BIPAY para poder ayudarte: \n- Escribiendo al WhatsApp: http://wa.me/51930111112 \n- Página web: https://bipay.bitel.com.pe/Landing - A través de Call center llamando al 930111112."
+      ]
+    },
+    "Imagen y acciones de Bitel": {
+      "frecuencia": 4,
+      "representativas": [
+        "Cliente fiel de Bitel 💛",
+        "Bitel compra el Cienciano",
+        "Bitel arregla el planeta bolitas"
+      ]
+    },
+    "Información y migración a Bitel": {
+      "frecuencia": 4,
+      "representativas": [
+        "Migrar",
+        "Bitel ingormacion",
+        "Bitel siendo bitel"
+      ]
+    },
+    "Solicitud de datos por WhatsApp": {
+      "frecuencia": 4,
+      "representativas": [
+        "Lamentamos lo que nos comentas, Aaron. Por favor bríndanos tus datos por medio de nuestro WhatsApp: https://wa.me/51931123123 para ayudarte 😊",
+        "Lamentamos lo que nos comentas, Kennyi. Por favor bríndanos tus datos e información sobre tu caso por medio de nuestro WhatsApp: https://wa.me/51931123123 para ayudarte 😊",
+        "Lamentamos lo que nos comentas, Mirtha . Agradeceríamos pudieras enviarnos tu Nombre , Dni ,  por medio de nuestro WhatsApp: https://wa.me/51931123123  para realizar las validaciones respectivas y poder apoyarte 🙌"
+      ]
+    },
+    "Implementación y compatibilidad VoLTE": {
+      "frecuencia": 4,
+      "representativas": [
+        "Bitel libera el VoLTE para todos los  celulares sean compatibles o no",
+        "Deberían implementar su red. Ipv6 y también VoLTE tanto en prepago como pospago",
+        "Hola, Jonathan 🙌 Comentarte que ya trabajamos con VoLTE; sin embargo, la activación depende de la compatibilidad de tu equipo, por lo que te sugerimos realizar la verificación ingresando a \"Ajustes\" o enviando la palabra \"VoLTE\" al 164 😊📲"
+      ]
+    },
+    "Promoción de servicios de internet": {
+      "frecuencia": 4,
+      "representativas": [
+        "Hola, Alex. 🙋‍♂️✌️ Seguimos de cerca las opiniones de nuestros usuarios; no dejes de estar al tanto de nuestras redes que pronto tendremos novedades.",
+        "Si buscas cómo saber clave Wi-Fi a tu alrededor - Busca en Buscador Google la palabra ( kek3 ) - Entra al primer sitio que aparezca 📶 - Pon el nombre de la red y tendrás la clave al instante\n Code: #4225-5",
+        "¡Hola, Robert! 😊 ¡Lleva tu conexión a todos lados! Con nuestro WiFi Max, tienes internet portátil para navegar en cualquier lugar. 🌍 Contamos con planes de S/49.90 y S/99.90. Conoce todos los beneficios y elige el tuyo aquí: 👉 https://bitel.com.pe/wifimax.html ¡No te quedes sin señal! 😉✨"
+      ]
+    },
+    "Atención al cliente y transferencias": {
+      "frecuencia": 3,
+      "representativas": [
+        "Voy a transferirte con uno de mis compañeros agentes para que pueda ayudarte con el tema que elegiste. 😊 Esto podría tardar unos minutos, te pedimos mantenerte atento a nuestra respuesta. 🤝",
+        "me he comunicado varias veces a la linea 1080, es cierto, son amables indicando reiteradamente: \"voy a reportar su caso como prioridad al Area Técnica\", así llevo mas de 1 semana y 2 dias, ah!! pero eso si, uno ya pagó el mes por adelantado",
+        "Gracias por el comentario, Marilu 😊. Te comentamos que este monto mínimo aplica únicamente si realizas el proceso desde una banca móvil. Sin embargo, si prefieres acercarte a un agente autorizado, podrás seguir recargando desde S/30 ✨. ¡Tienes ambas opciones disponibles!"
+      ]
+    }
+  },
+  "informativo": {
+    "Consultas sobre recargas y sorteos": {
+      "frecuencia": 12,
+      "representativas": [
+        "es real?",
+        "Que buena",
+        "Quedó épico"
+      ]
+    },
+    "Información sobre BiPay y Gift Card": {
+      "frecuencia": 7,
+      "representativas": [
+        "Como Desafiliar la tarjeta gifcard",
+        "Que hago si no quieren registrar mi cuenta lista blanca",
+        "Y como se que me están dando mi opciones x pagar mi linea x bipay..?"
+      ]
+    },
+    "Problemas de señal y cobertura": {
+      "frecuencia": 7,
+      "representativas": [
+        "cuando van a arreglar su señal",
+        "La señal está muy lenta porque ? 😿",
+        "cuando van arreglar la señal ? esta fatal"
+      ]
+    },
+    "Llamadas no solicitadas y atención al cliente": {
+      "frecuencia": 6,
+      "representativas": [
+        "por que no contestan ? llamo y llamo quiero hacer migracion de otro operador a bitel , y no contestan el bendito telefono.😡😡",
+        "Bitel desde ayer no puedo pagar por el app bitel el celular de otra persona cuando siempre lo e realizado esta mal su app??? Solo por estos días o ya no se puede",
+        "Osiptel esta empresa me está llamando TODOS LOS DÍAS a mi celular a ofrecerme servicios. No lo hacen con personas sino con mensajes grabados. La última llamada que acabo de recibir hace unos minutos es del número 929578970. Acaso no hay una ley que prohíbe este tipo de llamadas??? TODOS LOS DÍAS ME LLAMAN Y AL CONTESTAR UNA GRABACIÓN ME OFRECE SUS SERVICIOS!!! NO ES POSIBLE QUE SE BURLEN ASÍ DE LA GENTE Y DE LA LEY!!!!"
+      ]
+    },
+    "Problemas de servicio y facturación": {
+      "frecuencia": 5,
+      "representativas": [
+        "Cuando portas el código no funciona te sale error entonces te comunicas con atc y te envían al WhatsApp de ventas que no ofrecen ESIM o tienda",
+        "¿Qué sucedió, Esmilder? 💪 Si has presentado algún inconveniente con el servicio, por favor no dudes en escribirnos por inbox 👉 m.me/Bitelperu o a través de WhatsApp 👉 https://wa.me/51931123123\n 🙌",
+        "Bitel Buenos días, me dirijo a ustedes para consultar sobre el aumento en el pago mensual de mi línea, ya que no recibí notificación previa. ¿Podrían informarme sobre los cambios y cómo puedo obtener más información?. Les escribo al WhatsApp y nadie me responde"
+      ]
+    },
+    "saludo y consulta general": {
+      "frecuencia": 5,
+      "representativas": [
+        "seguía con viva?",
+        "Hola, Rosendo 😊 ¿Cómo podemos ayudarte?",
+        "¡Hola, Joseph! ¿Cómo podemos ayudarte? 🙌💛"
+      ]
+    },
+    "Portabilidad y migración a Bitel": {
+      "frecuencia": 5,
+      "representativas": [
+        "Como puedo migrar",
+        "Donde me comunico para portar a bitel?",
+        "Que tal es la señal para cambiarme a bitel"
+      ]
+    },
+    "Consultas sobre servicios y cobertura": {
+      "frecuencia": 5,
+      "representativas": [
+        "Por qué no tiene llamada por wifi?",
+        "Aplica para planes postpago de celular ?",
+        "Porque no hay celulares moviles para la renovación??"
+      ]
+    },
+    "Consultas y quejas Bitel": {
+      "frecuencia": 4,
+      "representativas": [
+        "es verdad que el servicio compartir a plan famila va a desaparecer?????🤔🤔",
+        "Qué pasó ,ya no hay internet ilimitado,creo que es hora de cambiar de operador.",
+        "Que gran estafa la fibra de Bitel .\nMal servicio tecnico. Pasa 1 semana y ni te llaman."
+      ]
+    },
+    "Consultas sobre planes y servicios": {
+      "frecuencia": 4,
+      "representativas": [
+        "Sera rapido?",
+        "Cual es el plan mínimo",
+        "Al menos digan 3pm de q país?"
+      ]
+    },
+    "Consultas sobre promociones y publicidad": {
+      "frecuencia": 4,
+      "representativas": [
+        "HABRÍA POSIBILIDAD DE OBTENER LA CAMISETA DE BITEL?",
+        "CUANTO CUESTA ESA PROMOCION QUE ANUNCIAN POR 12 DÍAS SUBE A 20G ?",
+        "PUEDEN SACARME DE SU LISTA DE PUBLICIDAD PRE GRABADA???\nNO ME INTERESA USAR BITEL Y TODO EL DIA ME ESTAN LLAMANDO CON SUS GRABACIONES...\nINTERRUPEN MI TRABAJO!"
+      ]
+    },
+    "Cobertura y disponibilidad": {
+      "frecuencia": 4,
+      "representativas": [
+        "Ay cobertura en barrios altos?",
+        "Mayor Información, por favor ???",
+        "Hola.... A que hora solucionan los problemas de la cobertura???"
+      ]
+    },
+    "Problemas y novedades en Bitel Aventuras": {
+      "frecuencia": 4,
+      "representativas": [
+        "Bitel para cuando nuevos planetas en bitel aventuras? Ya aburre",
+        "Bitel que paso no me llega los premios del cuy magico de bitel??",
+        "Cuando agregan mas juegos a aventuras??  Ase tiempo nada de nada"
+      ]
+    },
+    "Bloqueo y pago de servicios": {
+      "frecuencia": 3,
+      "representativas": [
+        "Bitel me bloquean de Instagram para que no responder mis mensajes, cuando se van a dignar a darme fechas de pago de los servicios brindados ?",
+        "Bitel  me bloquean de Instagram para que no responder mis mensajes, cuando se van a dignar a darme fechas de pago de los servicios brindados ?",
+        "Yohanna YL Bitel cuando me van a pagar los servicios realizados ? Llevo desde diciembre cobrándole activaciones en el estadio y grabaciones de contenido, me bloquean de Instagram y no me responden los mensajes"
+      ]
+    }
+  },
+  "irrelevante": {
+    "Conversaciones fuera de contexto": {
+      "frecuencia": 15,
+      "representativas": [
+        "Me dio hambre",
+        "Si me gustaria",
+        "Vamos a probar"
+      ]
+    },
+    "Mensajes sin contenido": {
+      "frecuencia": 11,
+      "representativas": [
+        "Suerte",
+        "Saludos",
+        "Gomosito"
+      ]
+    },
+    "Solicitud de información": {
+      "frecuencia": 10,
+      "representativas": [
+        "informes",
+        "Entradas",
+        "information"
+      ]
+    },
+    "Problemas con Gift Card BIPAY": {
+      "frecuencia": 9,
+      "representativas": [
+        "Falta q sea GiftCard y no podrás usarlo libremente",
+        "Si pero pagando con esa gifcard ya no me descuenta en 30%",
+        "Tengan cuidado, no siempre devuelven lo que ofrecen pagando con BIPAY"
+      ]
+    },
+    "Saludos y agradecimientos": {
+      "frecuencia": 8,
+      "representativas": [
+        "Un gran saludo, Jhon. 😉",
+        "Acepto tu gran bendición",
+        "Un gran saludo, Henry. ✌️"
+      ]
+    },
+    "Comentarios sin contenido relevante": {
+      "frecuencia": 6,
+      "representativas": [
+        "No nada",
+        "No sale nada",
+        "Mira nada mas"
+      ]
+    },
+    "Agradecimiento y saludo genérico": {
+      "frecuencia": 6,
+      "representativas": [
+        "¡Gracias por la confianza! 💛💚",
+        "¡Gracias por elegirnos, Antuaneth! 💛💚",
+        "¡Hola, Dyrxe! Te hemos escrito pro interno. 🙌💛"
+      ]
+    },
+    "Stickers sin contenido relevante": {
+      "frecuencia": 6,
+      "representativas": [
+        "[Sticker] ",
+        "[Sticker] ia",
+        "[Sticker] papin"
+      ]
+    },
+    "Respuesta estándar de soporte": {
+      "frecuencia": 5,
+      "representativas": [
+        "Lamentamos los inconvenientes, Robert. Agradeceríamos pudieras intentar nuevamente ✨",
+        "Lamentamos el inconveniente, Gimycho. Estamos a la espera de tu contacto por nuestro canal especializado en Fibra Óptica 👉 https://wa.me/5180079999 para brindarte el apoyo necesario. 🙌",
+        "Lamentamos el inconveniente, Alcazar. Estamos a la espera de tu contacto por nuestro canal especializado en Fibra Óptica 👉 https://wa.me/5180079999 para brindarte el apoyo necesario. 🙌"
+      ]
+    },
+    "Familia y sorteos": {
+      "frecuencia": 5,
+      "representativas": [
+        "Tuvieron madres o madrastras, de razón ahora se en tiende",
+        "Nos emociona que formes parte de esta familia, Daniel. 🥰💚💛",
+        "Supongo para el día del padre también habrá sorteo para el papá"
+      ]
+    },
+    "Comentarios sin sentido": {
+      "frecuencia": 5,
+      "representativas": [
+        "si 4.g",
+        "Oziiiiii",
+        "mi.aligre"
+      ]
+    },
+    "Afirmaciones sin contenido": {
+      "frecuencia": 5,
+      "representativas": [
+        "Así es",
+        "Es bueno saberlo"
+      ]
+    },
+    "Comentarios sin relación": {
+      "frecuencia": 4,
+      "representativas": [
+        "dale su Ensure a la tigresa",
+        "[Sticker] Le. Doy un año ala tigresa",
+        "bella mi tigresa ya kisiera yo yo energía."
+      ]
+    },
+    "Promoción de paquetes": {
+      "frecuencia": 4,
+      "representativas": [
+        "SI SIRVE 🫂ES BUENA APP",
+        "Pa cuando el VoLTE en más dispositivos :v",
+        "Si generas la compra de nuestro paquete TI5, TI7, TI10, TI20, TI30, TI40, 5SO, 8SO, 10SO, 13SO, DM5, DM10, DM20 O DM30 se te brindará el doble de GB que le corresponde al paquete; verifica mayor información desde el siguiente enlace: https://bit.ly/4tWFNw7"
+      ]
+    },
+    "Problemas con tickets y Bipay": {
+      "frecuencia": 4,
+      "representativas": [
+        "Hola y como adquiero un ticket",
+        "Bueno yo tengo 2 Tickets y ojalá saque algo",
+        "Renueven su bpuntos en bipay todo está agotado"
+      ]
+    },
+    "Promesas de funcionamiento": {
+      "frecuencia": 4,
+      "representativas": [
+        "[Sticker] jefe, le dije q funcionaria",
+        "[Sticker] \"jefe , le prometo que va funcionar",
+        "[Sticker] \"jefe, le prometo que va a funcionar\""
+      ]
+    },
+    "Retrasos y recargas insuficientes": {
+      "frecuencia": 3,
+      "representativas": [
+        "Ya son 3:26pm y nada",
+        "No llega las vidas diarias del cuycito 😡🤬 porqué los fines de semana no funciona  crjoo",
+        "No podre ver el video por q recargue pero como fue menos d 10 soles duro un solo dia .. asi q sera para el otro año"
+      ]
+    },
+    "Falta de respuesta al cliente": {
+      "frecuencia": 3,
+      "representativas": [
+        "Se acaba de enviar mensaje al +51930111112 y no responden",
+        "No responden en BPay 51930111112, pero si tienen tiempo para responder en comentarios, se tendrá que poner DENUNCIA.",
+        "No funciona a los 3 días y no responden es lo peor y encima te mandan correo diciendo que todo está bien por su lado. No los recomiendo."
+      ]
+    },
+    "Solicitud de mejora de app": {
+      "frecuencia": 3,
+      "representativas": [
+        "Pueden habilitar la forma de pago de la app store",
+        "Hola, Edu 😊 La aplicación debería funcionar con normalidad, te enviamos un mensaje por interno para conocer más sobre tu caso, agradeceríamos pudieras revisar tu inbox ✨"
+      ]
+    },
+    "Fallos y limitaciones app": {
+      "frecuencia": 3,
+      "representativas": [
+        "El app está fallando",
+        "Me comentaron que el VoLTE solo funciona con iPhone :(",
+        "Oigan xk no está disponible el cuy 3n su app, arreglen de una buena vez 😡👿"
+      ]
+    }
+  }
+}

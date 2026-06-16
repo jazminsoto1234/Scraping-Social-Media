@@ -1,0 +1,27 @@
+{
+  "post_id": "reel_3551462388337850",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-22",
+  "positivo": {
+    "104 desde tu movistar": 2,
+    "llamada puedes contactarnos": 2
+  },
+  "negativo": {
+    "sucede con el servicio": 2,
+    "servicio de internet": 2,
+    "internet desde": 2,
+    "señal": 1,
+    "datos": 1
+  },
+  "neutral": {
+    "servicio sea": 2,
+    "tus datos": 2
+  },
+  "informativo": {
+    "ustedes con su servicio": 2,
+    "servicio de internet": 2,
+    "regresaron el servicio": 2,
+    "señal": 1
+  }
+}

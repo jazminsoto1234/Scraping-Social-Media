@@ -1,0 +1,44 @@
+{
+  "post_id": "pfbid0XgGfPgJjNAX61o2qcwyLX1LBJXDQZ6LcyCvxk1gBf2pAPQ5qtA12hnUFbui5gEWEl",
+  "operador": "bitel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-15",
+  "negativo": {
+    "bitel tengo problemas": 2,
+    "servicio al cliente": 2,
+    "digan en la llamada": 2,
+    "consumes mis datos": 2,
+    "lambayeque la red": 2,
+    "red se cayo": 2,
+    "cayo no hay señal": 2,
+    "estafa ya les pague": 2,
+    "pésimo se está volviendo": 2,
+    "señal es muy mala": 2,
+    "datos llamadas": 2,
+    "consumir datos": 2,
+    "sufres algún problema": 2,
+    "hva esa conexión": 2,
+    "conexión sin wsp": 2,
+    "mentirosos y estafa": 2,
+    "operador bitel": 2,
+    "recarga pésimo servicio": 2,
+    "bitel fibra": 2,
+    "internet": 2,
+    "queja": 1,
+    "funciona": 1,
+    "plan": 1
+  },
+  "neutral": {
+    "brindar un mejor servicio": 4,
+    "bitel dando clic": 3,
+    "esté bien con tu servicio": 2,
+    "mejor servicio y estamos": 2,
+    "mejor servicio y estamos realizando": 2,
+    "llamadas": 1
+  },
+  "informativo": {
+    "puedas enviarnos tus datos": 2,
+    "bitel": 1,
+    "cómo": 1
+  }
+}

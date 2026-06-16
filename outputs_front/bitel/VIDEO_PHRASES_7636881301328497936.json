@@ -1,0 +1,19 @@
+{
+  "video_id": "7636881301328497936",
+  "operador": "bitel",
+  "plataforma": "tiktok",
+  "fecha": "2026-05-06",
+  "negativo": {
+    "internet y hasta ahora": 2,
+    "días sin internet": 2,
+    "pésimo": 1,
+    "servicio": 1,
+    "bitel": 1
+  },
+  "neutral": {
+    "bitel": 1
+  },
+  "informativo": {
+    "plan": 1
+  }
+}

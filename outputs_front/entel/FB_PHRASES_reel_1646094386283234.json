@@ -1,0 +1,21 @@
+{
+  "post_id": "reel_1646094386283234",
+  "operador": "entel",
+  "plataforma": "facebook",
+  "fecha": "2026-05-01",
+  "negativo": {
+    "entel": 3
+  },
+  "neutral": {
+    "través de tu app": 2,
+    "app mi ente": 2,
+    "tus datos": 2,
+    "chip entel": 2
+  },
+  "informativo": {
+    "servicio técnico": 2,
+    "entel": 2,
+    "cómo": 1,
+    "dónde": 1
+  }
+}

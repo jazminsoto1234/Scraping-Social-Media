@@ -1,0 +1,19 @@
+{
+  "post_id": "reel_1004138725452008",
+  "operador": "movistar",
+  "plataforma": "facebook",
+  "fecha": "2026-05-22",
+  "positivo": {
+    "tus datos personales": 2,
+    "excelente": 1
+  },
+  "negativo": {
+    "movistar perú": 2,
+    "internet": 1
+  },
+  "neutral": {
+    "movistar": 1,
+    "datos": 1,
+    "servicio": 1
+  }
+}
